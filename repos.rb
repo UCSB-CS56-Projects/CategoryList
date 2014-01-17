@@ -16,7 +16,7 @@ end
 
 client      = Octokit::Client.new(login: username, password: pass)
 repo_names  = client.org_repos(ORG_NAME).map(&:name)
-repo_groups = Hash.new { |h,k| h[k]                                = [] }
+repo_groups = Hash.new { |h,k| h[k] = [] }
 
 repo_names.each do |name|
   next if name == "CategoryList" # Hackety hack
