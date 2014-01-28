@@ -3,7 +3,18 @@
 This repo contains a script to pull all of the repos from the class organization, and format them as [Markdown](http://daringfireball.net/projects/markdown/)
 for easy viewing.
 
-### Instructions
+### Instructions (Python Script)
+
+The python script (updateRepoList.py) uses PyGithub.
+
+The script prompts for the user's username and password and outputs to a markdown file titled AllRepos.md.
+Make sure you have set the GHA_GITHUB_ORG environment variable to the proper organization first: 
+```
+export GHA_GITHUB_ORG="UCSB-CS56-Projects"
+python updateRepoList.py
+```
+
+### Instructions (Ruby Script)
 
 The Ruby script requires the [Octokit](http://octokit.github.io/) gem to interact with the GitHub API. You'll need to make sure it's installed:
 

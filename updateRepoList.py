@@ -1,42 +1,64 @@
-#!/usr/bin/python
-from __future__ import print_function
+#!/usr/bin/env python
+
 import getpass
 import sys
+from collections import OrderedDict
 
-# In the main directory of the repo where you are developing with PyGithub,
-# type:
-#    git submodule add git://github.com/jacquev6/PyGithub.git PyGithub
-#    git submodule init
-#    git submodule update
-#
-# That will populate a PyGithub subdirectory with a clone of PyGithub
-# Then, to add it to your Python path, you can do:
+from github_acadwf import addPyGithubToPath
+from github_acadwf import getenvOrDie
 
-sys.path.append("./PyGithub");
+addPyGithubToPath()
 
 from github import Github
 from github import GithubException
 
-orgName="UCSB-CS56-Projects"
 
+class RepoListing(object):
+    def __init__(self, name, url):
+        self.name = name
+        self.url = url
+    
+    def getName(self):
+        return self.name
+    
+    def getUrl(self):
+        return self.url
+
+
+
+GHA_GITHUB_ORG = getenvOrDie("GHA_GITHUB_ORG",
+                        "Error: please set GHA_GITHUB_ORG to name of github organization for the course, e.g. UCSB-CS56-W14")
+
+# Authenticate to github.com and create PyGithub "Github" object
 username = raw_input("Github Username:")
 pw = getpass.getpass()
 g = Github(username, pw)
+org = g.get_organization(GHA_GITHUB_ORG)
 
-f = open('AllRepos.md','w')
+# Use the PyGithub Github object g to do whatever you want,
+# for example, listing all your own repos (user is whichever user authenticated)
 
 
-org = g.get_organization(orgName)
-
-repos = org.get_repos()
-
-listOfNames=[]
-
-for repo in repos:
-    listOfNames.append(repo.name)
-
-listOfNames.sort()
-
-for name in listOfNames:
-    print ("* {0}".format(name),file=f)
-
+projectCategories = dict()
+for repo in org.get_repos():
+    repoName = repo.name
+    repoUrl = repo.html_url
+    fields = repoName.split('-', 2)
+    #(prefix, category, name) = repoName.split('-', 2)
+    if fields[0] == "cs56" and len(fields) >= 3:
+        repoCategory = fields[1].capitalize()
+        repoName = fields[2]
+        if projectCategories.get(repoCategory, "") != "":
+            projectCategories[repoCategory].append(RepoListing(repoName, repoUrl))
+        else:
+            projectCategories[repoCategory] = [RepoListing(repoName, repoUrl),]
+    
+alphabeticalCategories = OrderedDict(sorted(projectCategories.items(), key=lambda repoCategory: repoCategory[0]))
+outputFile = open('AllRepos.md', 'w')
+outputFile.write('# ' + 'CategoryList\n')
+for repoCategory, repoListings in alphabeticalCategories.iteritems():
+    outputFile.write('## ' + repoCategory + '\n')
+    repoListings.sort(key=lambda repoListing: repoListing.name)
+    for repoListing in repoListings:
+        outputFile.write('* ' + '[' + repoListing.name + '](' + repoListing.url + ')\n')
+    
