@@ -1,6 +1,8 @@
 # CategoryList
+
 ## Discretemath
 * [towers-sierpinski](https://github.com/UCSB-CS56-Projects/cs56-discretemath-towers-sierpinski)
+
 ## Games
 * [Go](https://github.com/UCSB-CS56-Projects/cs56-games-Go)
 * [band-tycoon](https://github.com/UCSB-CS56-Projects/cs56-games-band-tycoon)
@@ -25,25 +27,32 @@
 * [simon-says](https://github.com/UCSB-CS56-Projects/cs56-games-simon-says)
 * [snake](https://github.com/UCSB-CS56-Projects/cs56-games-snake)
 * [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi)
+
 ## Languages
 * [vocab-quiz](https://github.com/UCSB-CS56-Projects/cs56-languages-vocab-quiz)
+
 ## Math
 * [conversion-quiz](https://github.com/UCSB-CS56-Projects/cs56-math-conversion-quiz)
+
 ## Misc
 * [map-gui](https://github.com/UCSB-CS56-Projects/cs56-misc-map-gui)
 * [recipe-manager](https://github.com/UCSB-CS56-Projects/cs56-misc-recipe-manager)
 * [translate-to-secret-languages](https://github.com/UCSB-CS56-Projects/cs56-misc-translate-to-secret-languages)
+
 ## Music
 * [basic-synthesis-demo](https://github.com/UCSB-CS56-Projects/cs56-music-basic-synthesis-demo)
 * [beatbox](https://github.com/UCSB-CS56-Projects/cs56-music-beatbox)
 * [guitar-tuner](https://github.com/UCSB-CS56-Projects/cs56-music-guitar-tuner)
 * [mp3-player](https://github.com/UCSB-CS56-Projects/cs56-music-mp3-player)
+
 ## Networking
 * [chat](https://github.com/UCSB-CS56-Projects/cs56-networking-chat)
+
 ## Scrapers
 * [misc](https://github.com/UCSB-CS56-Projects/cs56-scrapers-misc)
 * [pdf](https://github.com/UCSB-CS56-Projects/cs56-scrapers-pdf)
 * [ucsb-curriculum](https://github.com/UCSB-CS56-Projects/cs56-scrapers-ucsb-curriculum)
+
 ## Tutorials
 * [autocomplete](https://github.com/UCSB-CS56-Projects/cs56-tutorials-autocomplete)
 * [expression-parsing](https://github.com/UCSB-CS56-Projects/cs56-tutorials-expression-parsing)
@@ -51,6 +60,7 @@
 * [image-zoom](https://github.com/UCSB-CS56-Projects/cs56-tutorials-image-zoom)
 * [lint-style-programs](https://github.com/UCSB-CS56-Projects/cs56-tutorials-lint-style-programs)
 * [xml](https://github.com/UCSB-CS56-Projects/cs56-tutorials-xml)
+
 ## Utilities
 * [FTP-Client](https://github.com/UCSB-CS56-Projects/cs56-utilities-FTP-Client)
 * [GEscraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEscraper)
@@ -61,5 +71,6 @@
 * [ldap](https://github.com/UCSB-CS56-Projects/cs56-utilities-ldap)
 * [password-generator](https://github.com/UCSB-CS56-Projects/cs56-utilities-password-generator)
 * [rss-reader](https://github.com/UCSB-CS56-Projects/cs56-utilities-rss-reader)
+
 ## Utilties
 * [todo](https://github.com/UCSB-CS56-Projects/cs56-utilties-todo)

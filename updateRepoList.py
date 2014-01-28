@@ -57,7 +57,7 @@ alphabeticalCategories = OrderedDict(sorted(projectCategories.items(), key=lambd
 outputFile = open('AllRepos.md', 'w')
 outputFile.write('# ' + 'CategoryList\n')
 for repoCategory, repoListings in alphabeticalCategories.iteritems():
-    outputFile.write('## ' + repoCategory + '\n')
+    outputFile.write('\n## ' + repoCategory + '\n')
     repoListings.sort(key=lambda repoListing: repoListing.name)
     for repoListing in repoListings:
         outputFile.write('* ' + '[' + repoListing.name + '](' + repoListing.url + ')\n')
