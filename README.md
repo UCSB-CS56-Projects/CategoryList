@@ -14,6 +14,10 @@ export GHA_GITHUB_ORG="UCSB-CS56-Projects"
 python updateRepoList.py
 ```
 
+Note:
+The script only lists projects whose repo names follow the following form: cs56-(category)-(projectName)
+ex: cs56-games-maze, or cs56-misc-translate-to-secret-languages
+
 ### Instructions (Ruby Script)
 
 The Ruby script requires the [Octokit](http://octokit.github.io/) gem to interact with the GitHub API. You'll need to make sure it's installed:
