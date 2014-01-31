@@ -2,6 +2,9 @@
 # Object files
 *.o
 
+# Cached compiled Python files
+*.pyc
+
 # Libraries
 *.lib
 *.a
