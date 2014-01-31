@@ -7,10 +7,11 @@ from collections import OrderedDict
 
 from github_acadwf import addPyGithubToPath
 from github_acadwf import getenvOrDie
-from github import Github
-from github import GithubException
 
 addPyGithubToPath()
+
+from github import Github
+from github import GithubException
 
 class RepoListing(object):
     def __init__(self, name, url):
