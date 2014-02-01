@@ -9,7 +9,7 @@
 * [battleship](https://github.com/UCSB-CS56-Projects/cs56-games-battleship) 
 * [battleship-alt](https://github.com/UCSB-CS56-Projects/cs56-games-battleship-alt) 
 * [battleship-third](https://github.com/UCSB-CS56-Projects/cs56-games-battleship-third) 
-* [blackjack](https://github.com/UCSB-CS56-Projects/cs56-games-blackjack) 
+* [blackjack](https://github.com/UCSB-CS56-Projects/cs56-games-blackjack)  TBD    jstaahl             TBD Blackjack game 
 * [client-server](https://github.com/UCSB-CS56-Projects/cs56-games-client-server) 
 * [client-server-v2](https://github.com/UCSB-CS56-Projects/cs56-games-client-server-v2) 
 * [connectfour](https://github.com/UCSB-CS56-Projects/cs56-games-connectfour) 
@@ -23,7 +23,7 @@
 * [memory-card](https://github.com/UCSB-CS56-Projects/cs56-games-memory-card) 
 * [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman) 
 * [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong) 
-* [roguelike](https://github.com/UCSB-CS56-Projects/cs56-games-roguelike) 
+* [roguelike](https://github.com/UCSB-CS56-Projects/cs56-games-roguelike)  TBD andrewberls             TBD ASCII roguelike game 
 * [simon-says](https://github.com/UCSB-CS56-Projects/cs56-games-simon-says) 
 * [snake](https://github.com/UCSB-CS56-Projects/cs56-games-snake) 
 * [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi) 
@@ -42,7 +42,7 @@
 ## Music
 * [basic-synthesis-demo](https://github.com/UCSB-CS56-Projects/cs56-music-basic-synthesis-demo) 
 * [beatbox](https://github.com/UCSB-CS56-Projects/cs56-music-beatbox) 
-* [guitar-tuner](https://github.com/UCSB-CS56-Projects/cs56-music-guitar-tuner) 
+* [guitar-tuner](https://github.com/UCSB-CS56-Projects/cs56-music-guitar-tuner)  TBD bronhuston             TBD Guitar-related music applications 
 * [mp3-player](https://github.com/UCSB-CS56-Projects/cs56-music-mp3-player) 
 
 ## Networking
