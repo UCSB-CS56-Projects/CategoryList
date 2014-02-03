@@ -6,7 +6,7 @@
 ## Games
 * [Go](https://github.com/UCSB-CS56-Projects/cs56-games-Go) 
 * [band-tycoon](https://github.com/UCSB-CS56-Projects/cs56-games-band-tycoon) 
-* [battleship](https://github.com/UCSB-CS56-Projects/cs56-games-battleship) 
+* [battleship](https://github.com/UCSB-CS56-Projects/cs56-games-battleship)  W14 andrewberls             TBD Battleship game 
 * [battleship-alt](https://github.com/UCSB-CS56-Projects/cs56-games-battleship-alt) 
 * [battleship-third](https://github.com/UCSB-CS56-Projects/cs56-games-battleship-third) 
 * [blackjack](https://github.com/UCSB-CS56-Projects/cs56-games-blackjack)  W14    jstaahl             TBD Blackjack game 
@@ -14,7 +14,7 @@
 * [client-server-v2](https://github.com/UCSB-CS56-Projects/cs56-games-client-server-v2) 
 * [connectfour](https://github.com/UCSB-CS56-Projects/cs56-games-connectfour)  W14  bkiefer13             TBD An implementation of Connect Four 
 * [coop-adventure](https://github.com/UCSB-CS56-Projects/cs56-games-coop-adventure) 
-* [country-runner](https://github.com/UCSB-CS56-Projects/cs56-games-country-runner) 
+* [country-runner](https://github.com/UCSB-CS56-Projects/cs56-games-country-runner)  W14 andrewberls             TBD Running game with obstacles. 
 * [fish-animation](https://github.com/UCSB-CS56-Projects/cs56-games-fish-animation)  TBD   jcneally             TBD A fish animation 
 * [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it) 
 * [gomoku](https://github.com/UCSB-CS56-Projects/cs56-games-gomoku) 
@@ -63,6 +63,7 @@
 
 ## Utilities
 * [FTP-Client](https://github.com/UCSB-CS56-Projects/cs56-utilities-FTP-Client)  W14 andrewberls             TBD A FTP client which can connect to a server, download files from server and save it on local 
+* [GEAR-scraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEAR-scraper)  W14 andrewberls             TBD Scrape the UCSB Gear Catalog to form lists of structured information 
 * [GEscraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEscraper) 
 * [TSA-Encryption](https://github.com/UCSB-CS56-Projects/cs56-utilities-TSA-Encryption) 
 * [calculator](https://github.com/UCSB-CS56-Projects/cs56-utilities-calculator)  W14 andrewberls             TBD A graphical calculator written in Java 
