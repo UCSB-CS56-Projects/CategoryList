@@ -72,6 +72,4 @@
 * [ldap](https://github.com/UCSB-CS56-Projects/cs56-utilities-ldap) 
 * [password-generator](https://github.com/UCSB-CS56-Projects/cs56-utilities-password-generator)  TBD   jcneally             TBD A file that creates random passwords with a given password length 
 * [rss-reader](https://github.com/UCSB-CS56-Projects/cs56-utilities-rss-reader) 
-
-## Utilties
-* [todo](https://github.com/UCSB-CS56-Projects/cs56-utilties-todo)  TBD  bkiefer13             TBD Multi-level todo list application 
+* [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  TBD  bkiefer13             TBD Multi-level todo list application 
