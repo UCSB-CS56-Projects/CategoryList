@@ -68,7 +68,7 @@
 * [TSA-Encryption](https://github.com/UCSB-CS56-Projects/cs56-utilities-TSA-Encryption) 
 * [calculator](https://github.com/UCSB-CS56-Projects/cs56-utilities-calculator)  W14 andrewberls             TBD A graphical calculator written in Java 
 * [cryptography](https://github.com/UCSB-CS56-Projects/cs56-utilities-cryptography) 
-* [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  TBD  bkiefer13             TBD A 2D graphing GUI 
+* [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  W14  bkiefer13             TBD A 2D graphing GUI 
 * [ldap](https://github.com/UCSB-CS56-Projects/cs56-utilities-ldap) 
 * [password-generator](https://github.com/UCSB-CS56-Projects/cs56-utilities-password-generator)  TBD   jcneally             TBD A file that creates random passwords with a given password length 
 * [rss-reader](https://github.com/UCSB-CS56-Projects/cs56-utilities-rss-reader) 
