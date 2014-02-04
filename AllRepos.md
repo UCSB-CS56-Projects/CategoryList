@@ -18,7 +18,7 @@
 * [fish-animation](https://github.com/UCSB-CS56-Projects/cs56-games-fish-animation)  TBD   jcneally             TBD A fish animation 
 * [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it) 
 * [gomoku](https://github.com/UCSB-CS56-Projects/cs56-games-gomoku) 
-* [hangman](https://github.com/UCSB-CS56-Projects/cs56-games-hangman) 
+* [hangman](https://github.com/UCSB-CS56-Projects/cs56-games-hangman)  W14  bkiefer13             TBD Graphical hangman game 
 * [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  TBD    jstaahl             TBD A program that generates at random a solvable rectangular maze 
 * [memory-card](https://github.com/UCSB-CS56-Projects/cs56-games-memory-card) 
 * [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  TBD  ianvernon             TBD Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving 
@@ -26,7 +26,7 @@
 * [roguelike](https://github.com/UCSB-CS56-Projects/cs56-games-roguelike)  W14 andrewberls             TBD ASCII roguelike game 
 * [simon-says](https://github.com/UCSB-CS56-Projects/cs56-games-simon-says)   W14  bkiefer13             TBD The idea of the game is that a number of colored buttons will flash in some sequence, and the user must then click on the buttons in that same sequence, with one new flash being added to the sequence at the start of each round.  In this implementation, there will be four buttons, a number of which will "flash" in a randomized sequence at the start of each round. Then, the user must click on the buttons in the same order that the buttons flashed. Then for each subsequent round, one more button flash is added to then end of that sequence. The player loses when they click on a button that is out-of-order, and their score will be based on how many rounds.  The game will consist of a GUI of four clickable buttons.  
 * [snake](https://github.com/UCSB-CS56-Projects/cs56-games-snake)  W14 bronhuston             TBD Snake game 
-* [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi)  TBD  bkiefer13             TBD A towers of hanoi GAME (not a solver or a simulation or an animation of the algorithm!) 
+* [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi) 
 
 ## Languages
 * [vocab-quiz](https://github.com/UCSB-CS56-Projects/cs56-languages-vocab-quiz)  W14  bkiefer13             TBD A quiz that is designed to test the user's knowledge on foreign vocabulary 
