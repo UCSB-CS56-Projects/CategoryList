@@ -26,7 +26,7 @@
 * [roguelike](https://github.com/UCSB-CS56-Projects/cs56-games-roguelike)  W14 andrewberls             TBD ASCII roguelike game 
 * [simon-says](https://github.com/UCSB-CS56-Projects/cs56-games-simon-says)   W14  bkiefer13             TBD The idea of the game is that a number of colored buttons will flash in some sequence, and the user must then click on the buttons in that same sequence, with one new flash being added to the sequence at the start of each round.  In this implementation, there will be four buttons, a number of which will "flash" in a randomized sequence at the start of each round. Then, the user must click on the buttons in the same order that the buttons flashed. Then for each subsequent round, one more button flash is added to then end of that sequence. The player loses when they click on a button that is out-of-order, and their score will be based on how many rounds.  The game will consist of a GUI of four clickable buttons.  
 * [snake](https://github.com/UCSB-CS56-Projects/cs56-games-snake)  W14 bronhuston             TBD Snake game 
-* [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi) 
+* [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi)  W14    jstaahl             TBD A towers of hanoi GAME (not a solver or a simulation or an animation of the algorithm!) 
 
 ## Languages
 * [vocab-quiz](https://github.com/UCSB-CS56-Projects/cs56-languages-vocab-quiz)  W14  bkiefer13             TBD A quiz that is designed to test the user's knowledge on foreign vocabulary 
