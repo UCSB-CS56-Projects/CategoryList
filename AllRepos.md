@@ -15,7 +15,7 @@
 * [connectfour](https://github.com/UCSB-CS56-Projects/cs56-games-connectfour)  W14  bkiefer13             TBD An implementation of Connect Four 
 * [coop-adventure](https://github.com/UCSB-CS56-Projects/cs56-games-coop-adventure) 
 * [country-runner](https://github.com/UCSB-CS56-Projects/cs56-games-country-runner)  W14 andrewberls             TBD Running game with obstacles. 
-* [fish-animation](https://github.com/UCSB-CS56-Projects/cs56-games-fish-animation)  TBD   jcneally             TBD A fish animation 
+* [fish-animation](https://github.com/UCSB-CS56-Projects/cs56-games-fish-animation)  W14   jcneally             TBD A fish animation 
 * [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it) 
 * [gomoku](https://github.com/UCSB-CS56-Projects/cs56-games-gomoku) 
 * [hangman](https://github.com/UCSB-CS56-Projects/cs56-games-hangman)  W14  bkiefer13             TBD Graphical hangman game 
@@ -46,7 +46,7 @@
 * [mp3-player](https://github.com/UCSB-CS56-Projects/cs56-music-mp3-player) 
 
 ## Networking
-* [chat](https://github.com/UCSB-CS56-Projects/cs56-networking-chat)  TBD   jcneally             TBD A chat application that uses a client and a server 
+* [chat](https://github.com/UCSB-CS56-Projects/cs56-networking-chat)  W14   jcneally             TBD A chat application that uses a client and a server 
 
 ## Scrapers
 * [misc](https://github.com/UCSB-CS56-Projects/cs56-scrapers-misc) 
@@ -70,6 +70,6 @@
 * [cryptography](https://github.com/UCSB-CS56-Projects/cs56-utilities-cryptography) 
 * [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  W14  bkiefer13             TBD A 2D graphing GUI 
 * [ldap](https://github.com/UCSB-CS56-Projects/cs56-utilities-ldap) 
-* [password-generator](https://github.com/UCSB-CS56-Projects/cs56-utilities-password-generator)  TBD   jcneally             TBD A file that creates random passwords with a given password length 
+* [password-generator](https://github.com/UCSB-CS56-Projects/cs56-utilities-password-generator)  W14   jcneally             TBD A file that creates random passwords with a given password length 
 * [rss-reader](https://github.com/UCSB-CS56-Projects/cs56-utilities-rss-reader) 
 * [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  W14  bkiefer13             TBD Multi-level todo list application 
