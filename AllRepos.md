@@ -19,7 +19,7 @@
 * [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it) 
 * [gomoku](https://github.com/UCSB-CS56-Projects/cs56-games-gomoku) 
 * [hangman](https://github.com/UCSB-CS56-Projects/cs56-games-hangman)  W14  bkiefer13             TBD Graphical hangman game 
-* [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  TBD    jstaahl             TBD A program that generates at random a solvable rectangular maze 
+* [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  W14    jstaahl             TBD A program that generates at random a solvable rectangular maze 
 * [memory-card](https://github.com/UCSB-CS56-Projects/cs56-games-memory-card) 
 * [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  TBD  ianvernon             TBD Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving 
 * [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong)  W14 bronhuston             TBD An implementation of the classic game Pong, with cooperative multiplayer support. 
