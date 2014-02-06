@@ -22,7 +22,7 @@
 * [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  TBD    jstaahl             TBD A program that generates at random a solvable rectangular maze 
 * [memory-card](https://github.com/UCSB-CS56-Projects/cs56-games-memory-card) 
 * [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  TBD  ianvernon             TBD Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving 
-* [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong)  TBD bronhuston             TBD An implementation of the classic game Pong, with cooperative multiplayer support. 
+* [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong)  W14 bronhuston             TBD An implementation of the classic game Pong, with cooperative multiplayer support. 
 * [roguelike](https://github.com/UCSB-CS56-Projects/cs56-games-roguelike)  W14 andrewberls             TBD ASCII roguelike game 
 * [simon-says](https://github.com/UCSB-CS56-Projects/cs56-games-simon-says)   W14  bkiefer13             TBD The idea of the game is that a number of colored buttons will flash in some sequence, and the user must then click on the buttons in that same sequence, with one new flash being added to the sequence at the start of each round.  In this implementation, there will be four buttons, a number of which will "flash" in a randomized sequence at the start of each round. Then, the user must click on the buttons in the same order that the buttons flashed. Then for each subsequent round, one more button flash is added to then end of that sequence. The player loses when they click on a button that is out-of-order, and their score will be based on how many rounds.  The game will consist of a GUI of four clickable buttons.  
 * [snake](https://github.com/UCSB-CS56-Projects/cs56-games-snake)  W14 bronhuston             TBD Snake game 
@@ -32,7 +32,7 @@
 * [vocab-quiz](https://github.com/UCSB-CS56-Projects/cs56-languages-vocab-quiz)  W14  bkiefer13             TBD A quiz that is designed to test the user's knowledge on foreign vocabulary 
 
 ## Math
-* [conversion-quiz](https://github.com/UCSB-CS56-Projects/cs56-math-conversion-quiz)  TBD bronhuston             TBD GUI for binary/octal/hex/decimal conversion quiz 
+* [conversion-quiz](https://github.com/UCSB-CS56-Projects/cs56-math-conversion-quiz)  W14 bronhuston             TBD GUI for binary/octal/hex/decimal conversion quiz 
 
 ## Misc
 * [map-gui](https://github.com/UCSB-CS56-Projects/cs56-misc-map-gui) 
@@ -51,7 +51,7 @@
 ## Scrapers
 * [misc](https://github.com/UCSB-CS56-Projects/cs56-scrapers-misc) 
 * [pdf](https://github.com/UCSB-CS56-Projects/cs56-scrapers-pdf) 
-* [ucsb-curriculum](https://github.com/UCSB-CS56-Projects/cs56-scrapers-ucsb-curriculum)  TBD    jstaahl             TBD Parser for the UCSB curriculum search 
+* [ucsb-curriculum](https://github.com/UCSB-CS56-Projects/cs56-scrapers-ucsb-curriculum)  W14    jstaahl             TBD Parser for the UCSB curriculum search 
 
 ## Tutorials
 * [autocomplete](https://github.com/UCSB-CS56-Projects/cs56-tutorials-autocomplete) 
@@ -65,7 +65,7 @@
 * [FTP-Client](https://github.com/UCSB-CS56-Projects/cs56-utilities-FTP-Client)  W14 andrewberls             TBD A FTP client which can connect to a server, download files from server and save it on local 
 * [GEAR-scraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEAR-scraper)  W14 andrewberls             TBD Scrape the UCSB Gear Catalog to form lists of structured information 
 * [GEscraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEscraper) 
-* [TSA-Encryption](https://github.com/UCSB-CS56-Projects/cs56-utilities-TSA-Encryption)  TBD bronhuston             TBD TopCoder Security Agency (TSA, established today) has just invented a new encryption system! This encryption system takes as its input a list of numbers to encrypt.  
+* [TSA-Encryption](https://github.com/UCSB-CS56-Projects/cs56-utilities-TSA-Encryption)  W14 bronhuston             TBD TopCoder Security Agency (TSA, established today) has just invented a new encryption system! This encryption system takes as its input a list of numbers to encrypt.  
 * [calculator](https://github.com/UCSB-CS56-Projects/cs56-utilities-calculator)  W14 andrewberls             TBD A graphical calculator written in Java 
 * [cryptography](https://github.com/UCSB-CS56-Projects/cs56-utilities-cryptography) 
 * [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  W14  bkiefer13             TBD A 2D graphing GUI 
