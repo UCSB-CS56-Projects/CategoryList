@@ -4,7 +4,7 @@
 * [towers-sierpinski](https://github.com/UCSB-CS56-Projects/cs56-discretemath-towers-sierpinski)  W14    jstaahl             TBD Java software to explore the relationship between the Towers of Hanoi and the Sierpinski Triangle 
 
 ## Games
-* [Go](https://github.com/UCSB-CS56-Projects/cs56-games-Go) 
+* [Go](https://github.com/UCSB-CS56-Projects/cs56-games-Go)  W14    jstaahl             TBD A gui version of the Chinese board game called Go 
 * [band-tycoon](https://github.com/UCSB-CS56-Projects/cs56-games-band-tycoon) 
 * [battleship](https://github.com/UCSB-CS56-Projects/cs56-games-battleship)  W14 andrewberls             TBD Battleship game 
 * [battleship-alt](https://github.com/UCSB-CS56-Projects/cs56-games-battleship-alt) 
@@ -71,5 +71,5 @@
 * [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  W14  bkiefer13             TBD A 2D graphing GUI 
 * [ldap](https://github.com/UCSB-CS56-Projects/cs56-utilities-ldap) 
 * [password-generator](https://github.com/UCSB-CS56-Projects/cs56-utilities-password-generator)  W14   jcneally             TBD A file that creates random passwords with a given password length 
-* [rss-reader](https://github.com/UCSB-CS56-Projects/cs56-utilities-rss-reader) 
+* [rss-reader](https://github.com/UCSB-CS56-Projects/cs56-utilities-rss-reader)  TBD erdinckorpeoglu             TBD Java interface for the website CommaFeed.com, an RSS reader.  
 * [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  W14  bkiefer13             TBD Multi-level todo list application 
