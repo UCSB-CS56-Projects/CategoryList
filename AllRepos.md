@@ -13,7 +13,7 @@
 * [client-server](https://github.com/UCSB-CS56-Projects/cs56-games-client-server) 
 * [client-server-v2](https://github.com/UCSB-CS56-Projects/cs56-games-client-server-v2) 
 * [connectfour](https://github.com/UCSB-CS56-Projects/cs56-games-connectfour)  W14  bkiefer13             TBD An implementation of Connect Four 
-* [coop-adventure](https://github.com/UCSB-CS56-Projects/cs56-games-coop-adventure) 
+* [coop-adventure](https://github.com/UCSB-CS56-Projects/cs56-games-coop-adventure)  W14 erdinckorpeoglu             TBD Point and click adventure game about the Student Housing Coops 
 * [country-runner](https://github.com/UCSB-CS56-Projects/cs56-games-country-runner)  W14 andrewberls             TBD Running game with obstacles. 
 * [fish-animation](https://github.com/UCSB-CS56-Projects/cs56-games-fish-animation)  W14   jcneally             TBD A fish animation 
 * [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it) 
@@ -21,7 +21,7 @@
 * [hangman](https://github.com/UCSB-CS56-Projects/cs56-games-hangman)  W14  bkiefer13             TBD Graphical hangman game 
 * [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  W14    jstaahl             TBD A program that generates at random a solvable rectangular maze 
 * [memory-card](https://github.com/UCSB-CS56-Projects/cs56-games-memory-card) 
-* [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  TBD  ianvernon             TBD Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving 
+* [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  W14  ianvernon             TBD Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving 
 * [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong)  W14 bronhuston             TBD An implementation of the classic game Pong, with cooperative multiplayer support. 
 * [roguelike](https://github.com/UCSB-CS56-Projects/cs56-games-roguelike)  W14 andrewberls             TBD ASCII roguelike game 
 * [simon-says](https://github.com/UCSB-CS56-Projects/cs56-games-simon-says)   W14  bkiefer13             TBD The idea of the game is that a number of colored buttons will flash in some sequence, and the user must then click on the buttons in that same sequence, with one new flash being added to the sequence at the start of each round.  In this implementation, there will be four buttons, a number of which will "flash" in a randomized sequence at the start of each round. Then, the user must click on the buttons in the same order that the buttons flashed. Then for each subsequent round, one more button flash is added to then end of that sequence. The player loses when they click on a button that is out-of-order, and their score will be based on how many rounds.  The game will consist of a GUI of four clickable buttons.  
@@ -43,7 +43,7 @@
 * [basic-synthesis-demo](https://github.com/UCSB-CS56-Projects/cs56-music-basic-synthesis-demo)  W14 bronhuston             TBD A basic demo of some simple synthesis starting with sine waves 
 * [beatbox](https://github.com/UCSB-CS56-Projects/cs56-music-beatbox) 
 * [guitar-tuner](https://github.com/UCSB-CS56-Projects/cs56-music-guitar-tuner)  W14 bronhuston             TBD Guitar-related music applications 
-* [mp3-player](https://github.com/UCSB-CS56-Projects/cs56-music-mp3-player) 
+* [mp3-player](https://github.com/UCSB-CS56-Projects/cs56-music-mp3-player)  W14  ianvernon             TBD An app that can play music from an mp3 file 
 
 ## Networking
 * [chat](https://github.com/UCSB-CS56-Projects/cs56-networking-chat)  W14   jcneally             TBD A chat application that uses a client and a server 
@@ -63,7 +63,7 @@
 
 ## Utilities
 * [FTP-Client](https://github.com/UCSB-CS56-Projects/cs56-utilities-FTP-Client)  W14 andrewberls             TBD A FTP client which can connect to a server, download files from server and save it on local 
-* [GEAR-scraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEAR-scraper)  TBD andrewberls             TBD Scrape the UCSB Gear Catalog to form lists of structured information 
+* [GEAR-scraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEAR-scraper)  W14 andrewberls             TBD Scrape the UCSB Gear Catalog to form lists of structured information 
 * [GEscraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEscraper) 
 * [TSA-Encryption](https://github.com/UCSB-CS56-Projects/cs56-utilities-TSA-Encryption)  W14 bronhuston             TBD TopCoder Security Agency (TSA, established today) has just invented a new encryption system! This encryption system takes as its input a list of numbers to encrypt.  
 * [calculator](https://github.com/UCSB-CS56-Projects/cs56-utilities-calculator)  W14 andrewberls             TBD A graphical calculator written in Java 
