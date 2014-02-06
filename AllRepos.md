@@ -1,7 +1,7 @@
 # CategoryList
 
 ## Discretemath
-* [towers-sierpinski](https://github.com/UCSB-CS56-Projects/cs56-discretemath-towers-sierpinski)  TBD    jstaahl             TBD Java software to explore the relationship between the Towers of Hanoi and the Sierpinski Triangle 
+* [towers-sierpinski](https://github.com/UCSB-CS56-Projects/cs56-discretemath-towers-sierpinski)  W14    jstaahl             TBD Java software to explore the relationship between the Towers of Hanoi and the Sierpinski Triangle 
 
 ## Games
 * [Go](https://github.com/UCSB-CS56-Projects/cs56-games-Go) 
