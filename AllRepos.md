@@ -63,7 +63,7 @@
 
 ## Utilities
 * [FTP-Client](https://github.com/UCSB-CS56-Projects/cs56-utilities-FTP-Client)  W14 andrewberls             TBD A FTP client which can connect to a server, download files from server and save it on local 
-* [GEAR-scraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEAR-scraper)  W14 andrewberls             TBD Scrape the UCSB Gear Catalog to form lists of structured information 
+* [GEAR-scraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEAR-scraper)  TBD andrewberls             TBD Scrape the UCSB Gear Catalog to form lists of structured information 
 * [GEscraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEscraper) 
 * [TSA-Encryption](https://github.com/UCSB-CS56-Projects/cs56-utilities-TSA-Encryption)  W14 bronhuston             TBD TopCoder Security Agency (TSA, established today) has just invented a new encryption system! This encryption system takes as its input a list of numbers to encrypt.  
 * [calculator](https://github.com/UCSB-CS56-Projects/cs56-utilities-calculator)  W14 andrewberls             TBD A graphical calculator written in Java 
