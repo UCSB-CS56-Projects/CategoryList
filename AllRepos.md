@@ -24,7 +24,7 @@
 * [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  W14  ianvernon             TBD Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving 
 * [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong)  W14 bronhuston             TBD An implementation of the classic game Pong, with cooperative multiplayer support. 
 * [roguelike](https://github.com/UCSB-CS56-Projects/cs56-games-roguelike)  W14 andrewberls             TBD ASCII roguelike game 
-* [simon-says](https://github.com/UCSB-CS56-Projects/cs56-games-simon-says)   W14  bkiefer13             TBD The idea of the game is that a number of colored buttons will flash in some sequence, and the user must then click on the buttons in that same sequence, with one new flash being added to the sequence at the start of each round.  In this implementation, there will be four buttons, a number of which will "flash" in a randomized sequence at the start of each round. Then, the user must click on the buttons in the same order that the buttons flashed. Then for each subsequent round, one more button flash is added to then end of that sequence. The player loses when they click on a button that is out-of-order, and their score will be based on how many rounds.  The game will consist of a GUI of four clickable buttons.  
+* [simon-says](https://github.com/UCSB-CS56-Projects/cs56-games-simon-says)   W14  bkiefer13             TBD A "Simon Says" game where the player must replicate a series of actions 
 * [snake](https://github.com/UCSB-CS56-Projects/cs56-games-snake)  W14 bronhuston             TBD Snake game 
 * [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi)  W14    jstaahl             TBD A towers of hanoi GAME (not a solver or a simulation or an animation of the algorithm!) 
 
@@ -73,3 +73,4 @@
 * [password-generator](https://github.com/UCSB-CS56-Projects/cs56-utilities-password-generator)  W14   jcneally             TBD A file that creates random passwords with a given password length 
 * [rss-reader](https://github.com/UCSB-CS56-Projects/cs56-utilities-rss-reader)  TBD erdinckorpeoglu             TBD Java interface for the website CommaFeed.com, an RSS reader.  
 * [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  W14  bkiefer13             TBD Multi-level todo list application 
+* [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  TBD    pconrad       moniker85 UCSB Curriculum Scraper based on HtmlUnit 
