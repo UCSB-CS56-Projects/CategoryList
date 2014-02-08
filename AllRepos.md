@@ -36,7 +36,7 @@
 
 ## Misc
 * [map-gui](https://github.com/UCSB-CS56-Projects/cs56-misc-map-gui) 
-* [recipe-manager](https://github.com/UCSB-CS56-Projects/cs56-misc-recipe-manager) 
+* [recipe-manager](https://github.com/UCSB-CS56-Projects/cs56-misc-recipe-manager)  TBD    kjorg50             TBD An application to manage a list of recipes 
 * [translate-to-secret-languages](https://github.com/UCSB-CS56-Projects/cs56-misc-translate-to-secret-languages) 
 
 ## Music
