@@ -16,7 +16,7 @@
 * [coop-adventure](https://github.com/UCSB-CS56-Projects/cs56-games-coop-adventure)  W14 erdinckorpeoglu             TBD Point and click adventure game about the Student Housing Coops 
 * [country-runner](https://github.com/UCSB-CS56-Projects/cs56-games-country-runner)  W14 andrewberls             TBD Running game with obstacles. 
 * [fish-animation](https://github.com/UCSB-CS56-Projects/cs56-games-fish-animation)  W14   jcneally             TBD A fish animation 
-* [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it) 
+* [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it)  W14   jcneally             TBD A game where the goal is to get entire board to the same color 
 * [gomoku](https://github.com/UCSB-CS56-Projects/cs56-games-gomoku) 
 * [hangman](https://github.com/UCSB-CS56-Projects/cs56-games-hangman)  W14  bkiefer13             TBD Graphical hangman game 
 * [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  W14    jstaahl             TBD A program that generates at random a solvable rectangular maze 
@@ -49,8 +49,8 @@
 * [chat](https://github.com/UCSB-CS56-Projects/cs56-networking-chat)  W14   jcneally             TBD A chat application that uses a client and a server 
 
 ## Scrapers
-* [misc](https://github.com/UCSB-CS56-Projects/cs56-scrapers-misc) 
-* [pdf](https://github.com/UCSB-CS56-Projects/cs56-scrapers-pdf) 
+* [baseball-stats](https://github.com/UCSB-CS56-Projects/cs56-scrapers-baseball-stats)  TBD    kjorg50             TBD a scraper that gathers statistics on Major League Baseball players 
+* [pdf](https://github.com/UCSB-CS56-Projects/cs56-scrapers-pdf)  TBD    kjorg50             TBD Utilities for scraping PDF files. Uses PDFBox as a tool. 
 * [ucsb-curriculum](https://github.com/UCSB-CS56-Projects/cs56-scrapers-ucsb-curriculum)  W14    jstaahl             TBD Parser for the UCSB curriculum search 
 
 ## Tutorials
