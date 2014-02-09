@@ -26,6 +26,7 @@
 * [roguelike](https://github.com/UCSB-CS56-Projects/cs56-games-roguelike)  W14 andrewberls             TBD ASCII roguelike game 
 * [simon-says](https://github.com/UCSB-CS56-Projects/cs56-games-simon-says)   W14  bkiefer13             TBD A "Simon Says" game where the player must replicate a series of actions 
 * [snake](https://github.com/UCSB-CS56-Projects/cs56-games-snake)  W14 bronhuston             TBD Snake game 
+* [states-quiz](https://github.com/UCSB-CS56-Projects/cs56-games-states-quiz)  W14   jcneally             TBD Quiz on US States with GUI 
 * [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi)  W14    jstaahl             TBD A towers of hanoi GAME (not a solver or a simulation or an animation of the algorithm!) 
 
 ## Languages
@@ -74,3 +75,6 @@
 * [rss-reader](https://github.com/UCSB-CS56-Projects/cs56-utilities-rss-reader)  TBD erdinckorpeoglu             TBD Java interface for the website CommaFeed.com, an RSS reader.  
 * [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  W14  bkiefer13             TBD Multi-level todo list application 
 * [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  TBD    pconrad       moniker85 UCSB Curriculum Scraper based on HtmlUnit 
+
+## Number of Repos Ready: 33
+## Ready and Unclaimed Repos: 33

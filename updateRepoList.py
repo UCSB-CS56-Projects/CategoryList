@@ -76,6 +76,9 @@ for repo in org.get_repos():
 alphabeticalCategories = OrderedDict(sorted(projectCategories.items(), key=lambda repoCategory: repoCategory[0]))
 outputFile = open('AllRepos.md', 'w')
 outputFile.write('# ' + 'CategoryList\n')
+
+total_ready = 0
+total_unclaimed = 0
 for repoCategory, repoListings in alphabeticalCategories.iteritems():
     outputFile.write('\n## ' + repoCategory + '\n')
     repoListings.sort(key=lambda repoListing: repoListing.name)
@@ -86,9 +89,14 @@ for repoCategory, repoListings in alphabeticalCategories.iteritems():
                                              repoListing.moderator,
                                              repoListing.listOfGithubIds,
                                              repoListing.description) )
+            if(repoListing.quarter == "W14") :
+                total_ready += 1
+                if(repoListing.listOfGithubIds == "TBD") :
+                    total_unclaimed += 1
 
         outputFile.write('* ' + '[' + repoListing.name + '](' + repoListing.url + ') '
                          + extraInfo + '\n')
         
+outputFile.write("\n## Number of Repos Ready: " + str(total_ready) + "\n## Ready and Unclaimed Repos: " + str(total_unclaimed))
 outputFile.close()
     
