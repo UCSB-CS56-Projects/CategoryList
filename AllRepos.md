@@ -49,7 +49,7 @@
 * [chat](https://github.com/UCSB-CS56-Projects/cs56-networking-chat)  W14   jcneally             TBD A chat application that uses a client and a server 
 
 ## Scrapers
-* [baseball-stats](https://github.com/UCSB-CS56-Projects/cs56-scrapers-baseball-stats)  TBD    kjorg50             TBD a scraper that gathers statistics on Major League Baseball players 
+* [baseball-stats](https://github.com/UCSB-CS56-Projects/cs56-scrapers-baseball-stats)  W14    kjorg50             TBD a scraper that gathers statistics on Major League Baseball players 
 * [pdf](https://github.com/UCSB-CS56-Projects/cs56-scrapers-pdf)  TBD    kjorg50             TBD Utilities for scraping PDF files. Uses PDFBox as a tool. 
 * [ucsb-curriculum](https://github.com/UCSB-CS56-Projects/cs56-scrapers-ucsb-curriculum)  W14    jstaahl             TBD Parser for the UCSB curriculum search 
 
