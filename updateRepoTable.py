@@ -89,7 +89,7 @@ for repoCategory, repoListings in alphabeticalCategories.iteritems():
     for repoListing in repoListings:
         extraInfo = ""
         if (repoListing.quarter != "") :
-            extraInfo +=  ( ' %3s | %10s | %15s | %s |' % ( repoListing.quarter,
+            extraInfo +=  ( ' | %3s | %10s | %15s | %s |' % ( repoListing.quarter,
                                              repoListing.moderator,
                                              repoListing.listOfGithubIds,
                                              repoListing.description) )
