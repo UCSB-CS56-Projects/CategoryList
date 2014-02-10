@@ -26,7 +26,7 @@
 | [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  | W14 |    jstaahl |             TBD | A program that generates at random a solvable rectangular maze |
 | [memory-card](https://github.com/UCSB-CS56-Projects/cs56-games-memory-card) 
 | [minesweeper](https://github.com/UCSB-CS56-Projects/cs56-games-minesweeper)  | W14 |       TBD  |             TBD | (pconrad) Minesweeper game |
-| [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  | W14 |  ianvernon |             TBD | Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving |
+| [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  | W14 |        TBD |             TBD | (ianvernon) Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving |
 | [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong)  | W14 | bronhuston |             TBD | An implementation of the classic game Pong, with cooperative multiplayer support. |
 | [roguelike](https://github.com/UCSB-CS56-Projects/cs56-games-roguelike)  | W14 | andrewberls |             TBD | ASCII roguelike game |
 | [simon-says](https://github.com/UCSB-CS56-Projects/cs56-games-simon-says)  |  W14 |  bkiefer13 |             TBD | A "Simon Says" game where the player must replicate a series of actions |
