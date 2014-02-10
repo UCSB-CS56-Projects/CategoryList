@@ -82,6 +82,10 @@ total_unclaimed = 0
 for repoCategory, repoListings in alphabeticalCategories.iteritems():
     outputFile.write('\n## ' + repoCategory + '\n')
     repoListings.sort(key=lambda repoListing: repoListing.name)
+
+    outputFile.write("| Repo | Qtr | Moderator | github users | Description |\n");
+    outputFile.write("| --- | --- | --------- | ------------ | -----------  |\n");
+
     for repoListing in repoListings:
         extraInfo = ""
         if (repoListing.quarter != "") :

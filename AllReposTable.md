@@ -1,9 +1,13 @@
 # CategoryList
 
 ## Discretemath
+| Repo | Qtr | Moderator | github users | Description |
+| --- | --- | --------- | ------------ | -----------  |
 | [towers-sierpinski](https://github.com/UCSB-CS56-Projects/cs56-discretemath-towers-sierpinski)  W14 |    jstaahl |             TBD | Java software to explore the relationship between the Towers of Hanoi and the Sierpinski Triangle |
 
 ## Games
+| Repo | Qtr | Moderator | github users | Description |
+| --- | --- | --------- | ------------ | -----------  |
 | [Go](https://github.com/UCSB-CS56-Projects/cs56-games-Go)  W14 |    jstaahl |             TBD | A gui version of the Chinese board game called Go |
 | [band-tycoon](https://github.com/UCSB-CS56-Projects/cs56-games-band-tycoon) 
 | [battleship](https://github.com/UCSB-CS56-Projects/cs56-games-battleship)  W14 | andrewberls |             TBD | Battleship game |
@@ -32,31 +36,45 @@
 | [treasure-hunter](https://github.com/UCSB-CS56-Projects/cs56-games-treasure-hunter)  TBD |   jcneally |             TBD | Treasure Hunter Game |
 
 ## Languages
+| Repo | Qtr | Moderator | github users | Description |
+| --- | --- | --------- | ------------ | -----------  |
 | [vocab-quiz](https://github.com/UCSB-CS56-Projects/cs56-languages-vocab-quiz)  W14 |  bkiefer13 |             TBD | A quiz that is designed to test the user's knowledge on foreign vocabulary |
 
 ## Math
+| Repo | Qtr | Moderator | github users | Description |
+| --- | --- | --------- | ------------ | -----------  |
 | [conversion-quiz](https://github.com/UCSB-CS56-Projects/cs56-math-conversion-quiz)  W14 | bronhuston |             TBD | GUI for binary/octal/hex/decimal conversion quiz |
 
 ## Misc
+| Repo | Qtr | Moderator | github users | Description |
+| --- | --- | --------- | ------------ | -----------  |
 | [map-gui](https://github.com/UCSB-CS56-Projects/cs56-misc-map-gui) 
 | [recipe-manager](https://github.com/UCSB-CS56-Projects/cs56-misc-recipe-manager) 
 | [translate-to-secret-languages](https://github.com/UCSB-CS56-Projects/cs56-misc-translate-to-secret-languages) 
 
 ## Music
+| Repo | Qtr | Moderator | github users | Description |
+| --- | --- | --------- | ------------ | -----------  |
 | [basic-synthesis-demo](https://github.com/UCSB-CS56-Projects/cs56-music-basic-synthesis-demo)  W14 | bronhuston |             TBD | A basic demo of some simple synthesis starting with sine waves |
 | [beatbox](https://github.com/UCSB-CS56-Projects/cs56-music-beatbox) 
 | [guitar-tuner](https://github.com/UCSB-CS56-Projects/cs56-music-guitar-tuner)  W14 | bronhuston |             TBD | Guitar-related music applications |
 | [mp3-player](https://github.com/UCSB-CS56-Projects/cs56-music-mp3-player)  W14 |  ianvernon |             TBD | An app that can play music from an mp3 file |
 
 ## Networking
+| Repo | Qtr | Moderator | github users | Description |
+| --- | --- | --------- | ------------ | -----------  |
 | [chat](https://github.com/UCSB-CS56-Projects/cs56-networking-chat)  W14 |   jcneally |             TBD | A chat application that uses a client and a server |
 
 ## Scrapers
+| Repo | Qtr | Moderator | github users | Description |
+| --- | --- | --------- | ------------ | -----------  |
 | [baseball-stats](https://github.com/UCSB-CS56-Projects/cs56-scrapers-baseball-stats)  W14 |    kjorg50 |             TBD | a scraper that gathers statistics on Major League Baseball players |
 | [pdf](https://github.com/UCSB-CS56-Projects/cs56-scrapers-pdf)  W14 |    kjorg50 |             TBD | Utilities for scraping PDF files. Uses PDFBox as a tool. |
 | [ucsb-curriculum](https://github.com/UCSB-CS56-Projects/cs56-scrapers-ucsb-curriculum)  W14 |    jstaahl |             TBD | Parser for the UCSB curriculum search |
 
 ## Tutorials
+| Repo | Qtr | Moderator | github users | Description |
+| --- | --- | --------- | ------------ | -----------  |
 | [autocomplete](https://github.com/UCSB-CS56-Projects/cs56-tutorials-autocomplete) 
 | [expression-parsing](https://github.com/UCSB-CS56-Projects/cs56-tutorials-expression-parsing) 
 | [hfj](https://github.com/UCSB-CS56-Projects/cs56-tutorials-hfj) 
@@ -65,6 +83,8 @@
 | [xml](https://github.com/UCSB-CS56-Projects/cs56-tutorials-xml) 
 
 ## Utilities
+| Repo | Qtr | Moderator | github users | Description |
+| --- | --- | --------- | ------------ | -----------  |
 | [FTP-Client](https://github.com/UCSB-CS56-Projects/cs56-utilities-FTP-Client)  W14 | andrewberls |             TBD | A FTP client which can connect to a server, download files from server and save it on local |
 | [GEAR-scraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEAR-scraper)  W14 | andrewberls |             TBD | Scrape the UCSB Gear Catalog to form lists of structured information |
 | [GEscraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEscraper) 

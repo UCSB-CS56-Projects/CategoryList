@@ -21,6 +21,7 @@
 * [hangman](https://github.com/UCSB-CS56-Projects/cs56-games-hangman)  W14  bkiefer13             TBD Graphical hangman game 
 * [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  W14    jstaahl             TBD A program that generates at random a solvable rectangular maze 
 * [memory-card](https://github.com/UCSB-CS56-Projects/cs56-games-memory-card) 
+* [minesweeper](https://github.com/UCSB-CS56-Projects/cs56-games-minesweeper)  W14       TBD              TBD Minesweeper game 
 * [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  W14  ianvernon             TBD Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving 
 * [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong)  W14 bronhuston             TBD An implementation of the classic game Pong, with cooperative multiplayer support. 
 * [roguelike](https://github.com/UCSB-CS56-Projects/cs56-games-roguelike)  W14 andrewberls             TBD ASCII roguelike game 
@@ -28,6 +29,7 @@
 * [snake](https://github.com/UCSB-CS56-Projects/cs56-games-snake)  W14 bronhuston             TBD Snake game 
 * [states-quiz](https://github.com/UCSB-CS56-Projects/cs56-games-states-quiz)  W14   jcneally             TBD Quiz on US States with GUI 
 * [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi)  W14    jstaahl             TBD A towers of hanoi GAME (not a solver or a simulation or an animation of the algorithm!) 
+* [treasure-hunter](https://github.com/UCSB-CS56-Projects/cs56-games-treasure-hunter)  TBD   jcneally             TBD Treasure Hunter Game 
 
 ## Languages
 * [vocab-quiz](https://github.com/UCSB-CS56-Projects/cs56-languages-vocab-quiz)  W14  bkiefer13             TBD A quiz that is designed to test the user's knowledge on foreign vocabulary 
@@ -76,5 +78,5 @@
 * [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  W14  bkiefer13             TBD Multi-level todo list application 
 * [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  TBD    pconrad       moniker85 UCSB Curriculum Scraper based on HtmlUnit 
 
-## Number of Repos Ready: 33
-## Ready and Unclaimed Repos: 33
+## Number of Repos Ready: 34
+## Ready and Unclaimed Repos: 34
