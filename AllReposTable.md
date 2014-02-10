@@ -68,7 +68,7 @@
 ## Scrapers
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
-| [baseball-stats](https://github.com/UCSB-CS56-Projects/cs56-scrapers-baseball-stats)  | W14 |    kjorg50 |             TBD | a scraper that gathers statistics on Major League Baseball players |
+| [baseball-stats](https://github.com/UCSB-CS56-Projects/cs56-scrapers-baseball-stats)  | W14 |        TBD |             TBD | (kjorg50) a scraper that gathers statistics on Major League Baseball players |
 | [pdf](https://github.com/UCSB-CS56-Projects/cs56-scrapers-pdf)  | W14 |        TBD |             TBD | (kjorg50) Utilities for scraping PDF files. Uses PDFBox as a tool. |
 | [ucsb-curriculum](https://github.com/UCSB-CS56-Projects/cs56-scrapers-ucsb-curriculum)  | W14 |    jstaahl |             TBD | Parser for the UCSB curriculum search |
 
@@ -94,7 +94,7 @@
 | [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  | W14 |  bkiefer13 |             TBD | A 2D graphing GUI |
 | [ldap](https://github.com/UCSB-CS56-Projects/cs56-utilities-ldap) 
 | [password-generator](https://github.com/UCSB-CS56-Projects/cs56-utilities-password-generator)  | W14 |   jcneally |             TBD | A file that creates random passwords with a given password length |
-| [rss-reader](https://github.com/UCSB-CS56-Projects/cs56-utilities-rss-reader)  | TBD | erdinckorpeoglu |             TBD | Java interface for the website CommaFeed.com, an RSS reader.  |
+| [rss-reader](https://github.com/UCSB-CS56-Projects/cs56-utilities-rss-reader)  | TBD |        TBD |             TBD | (erdinckorpeoglu) Java interface for the website CommaFeed.com, an RSS reader.  |
 | [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  | W14 |  bkiefer13 |             TBD | Multi-level todo list application |
 | [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  | TBD |        TBD |       moniker85 | (pconrad) UCSB Curriculum Scraper based on HtmlUnit |
 
