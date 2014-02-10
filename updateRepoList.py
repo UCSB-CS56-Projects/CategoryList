@@ -89,9 +89,9 @@ for repoCategory, repoListings in alphabeticalCategories.iteritems():
                                              repoListing.moderator,
                                              repoListing.listOfGithubIds,
                                              repoListing.description) )
-            if(repoListing.quarter == "W14") :
+            if(repoListing.quarter.strip() == "W14") :
                 total_ready += 1
-                if(repoListing.listOfGithubIds == "TBD") :
+                if(repoListing.listOfGithubIds.strip() == "TBD") :
                     total_unclaimed += 1
 
         outputFile.write('* ' + '[' + repoListing.name + '](' + repoListing.url + ') '

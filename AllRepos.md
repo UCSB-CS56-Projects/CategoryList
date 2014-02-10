@@ -80,5 +80,5 @@
 * [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  W14  bkiefer13             TBD Multi-level todo list application 
 * [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  TBD        TBD       moniker85 (pconrad) UCSB Curriculum Scraper based on HtmlUnit 
 
-## Number of Repos Ready: 36
-## Ready and Unclaimed Repos: 36
+## Number of Repos Ready: 37
+## Ready and Unclaimed Repos: 37
