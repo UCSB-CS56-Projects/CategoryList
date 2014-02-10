@@ -28,12 +28,13 @@
 | [minesweeper](https://github.com/UCSB-CS56-Projects/cs56-games-minesweeper)  | W14 |       TBD  |             TBD | (pconrad) Minesweeper game |
 | [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  | W14 |        TBD |             TBD | (ianvernon) Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving |
 | [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong)  | W14 | bronhuston |             TBD | An implementation of the classic game Pong, with cooperative multiplayer support. |
+| [rock-paper-scissors](https://github.com/UCSB-CS56-Projects/cs56-games-rock-paper-scissors)  | W14 |   jcneally |             TBD | rock paper scissors game using Pokemon |
 | [roguelike](https://github.com/UCSB-CS56-Projects/cs56-games-roguelike)  | W14 | andrewberls |             TBD | ASCII roguelike game |
 | [simon-says](https://github.com/UCSB-CS56-Projects/cs56-games-simon-says)  |  W14 |  bkiefer13 |             TBD | A "Simon Says" game where the player must replicate a series of actions |
 | [snake](https://github.com/UCSB-CS56-Projects/cs56-games-snake)  | W14 | bronhuston |             TBD | Snake game |
 | [states-quiz](https://github.com/UCSB-CS56-Projects/cs56-games-states-quiz)  | W14 |   jcneally |             TBD | Quiz on US States with GUI |
 | [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi)  | W14 |    jstaahl |             TBD | A towers of hanoi GAME (not a solver or a simulation or an animation of the algorithm!) |
-| [treasure-hunter](https://github.com/UCSB-CS56-Projects/cs56-games-treasure-hunter)  | TBD |   jcneally |             TBD | Treasure Hunter Game |
+| [treasure-hunter](https://github.com/UCSB-CS56-Projects/cs56-games-treasure-hunter)  | W14 |   jcneally |             TBD | Treasure Hunter Game |
 
 ## Languages
 | Repo | Qtr | Moderator | github users | Description |
@@ -94,9 +95,10 @@
 | [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  | W14 |  bkiefer13 |             TBD | A 2D graphing GUI |
 | [ldap](https://github.com/UCSB-CS56-Projects/cs56-utilities-ldap) 
 | [password-generator](https://github.com/UCSB-CS56-Projects/cs56-utilities-password-generator)  | W14 |   jcneally |             TBD | A file that creates random passwords with a given password length |
+| [restaurant-list](https://github.com/UCSB-CS56-Projects/cs56-utilities-restaurant-list)  | W14 |   jcneally |             TBD | app that lists restaurants from its database |
 | [rss-reader](https://github.com/UCSB-CS56-Projects/cs56-utilities-rss-reader)  | TBD |        TBD |             TBD | (erdinckorpeoglu) Java interface for the website CommaFeed.com, an RSS reader.  |
 | [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  | W14 |  bkiefer13 |             TBD | Multi-level todo list application |
 | [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  | TBD |        TBD |       moniker85 | (pconrad) UCSB Curriculum Scraper based on HtmlUnit |
 
-## Number of Repos Ready: 33
-## Ready and Unclaimed Repos: 33
+## Number of Repos Ready: 36
+## Ready and Unclaimed Repos: 36
