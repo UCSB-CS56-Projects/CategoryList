@@ -17,7 +17,7 @@
 | [client-server](https://github.com/UCSB-CS56-Projects/cs56-games-client-server) 
 | [client-server-v2](https://github.com/UCSB-CS56-Projects/cs56-games-client-server-v2) 
 | [connectfour](https://github.com/UCSB-CS56-Projects/cs56-games-connectfour)  | W14 |  bkiefer13 |             TBD | An implementation of Connect Four |
-| [coop-adventure](https://github.com/UCSB-CS56-Projects/cs56-games-coop-adventure)  | W14 | erdinckorpeoglu |             TBD | Point and click adventure game about the Student Housing Coops |
+| [coop-adventure](https://github.com/UCSB-CS56-Projects/cs56-games-coop-adventure)  | W14 |        TBD |             TBD | (erdinckorpeoglu) Point and click adventure game about the Student Housing Coops |
 | [country-runner](https://github.com/UCSB-CS56-Projects/cs56-games-country-runner)  | W14 | andrewberls |             TBD | Running game with obstacles. |
 | [fish-animation](https://github.com/UCSB-CS56-Projects/cs56-games-fish-animation)  | W14 |   jcneally |             TBD | A fish animation |
 | [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it)  | W14 |   jcneally |             TBD | A game where the goal is to get entire board to the same color |
@@ -25,7 +25,7 @@
 | [hangman](https://github.com/UCSB-CS56-Projects/cs56-games-hangman)  | W14 |  bkiefer13 |             TBD | Graphical hangman game |
 | [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  | W14 |    jstaahl |             TBD | A program that generates at random a solvable rectangular maze |
 | [memory-card](https://github.com/UCSB-CS56-Projects/cs56-games-memory-card) 
-| [minesweeper](https://github.com/UCSB-CS56-Projects/cs56-games-minesweeper)  | W14 |       TBD  |             TBD | Minesweeper game |
+| [minesweeper](https://github.com/UCSB-CS56-Projects/cs56-games-minesweeper)  | W14 |       TBD  |             TBD | (pconrad) Minesweeper game |
 | [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  | W14 |  ianvernon |             TBD | Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving |
 | [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong)  | W14 | bronhuston |             TBD | An implementation of the classic game Pong, with cooperative multiplayer support. |
 | [roguelike](https://github.com/UCSB-CS56-Projects/cs56-games-roguelike)  | W14 | andrewberls |             TBD | ASCII roguelike game |
@@ -58,7 +58,7 @@
 | [basic-synthesis-demo](https://github.com/UCSB-CS56-Projects/cs56-music-basic-synthesis-demo)  | W14 | bronhuston |             TBD | A basic demo of some simple synthesis starting with sine waves |
 | [beatbox](https://github.com/UCSB-CS56-Projects/cs56-music-beatbox) 
 | [guitar-tuner](https://github.com/UCSB-CS56-Projects/cs56-music-guitar-tuner)  | W14 | bronhuston |             TBD | Guitar-related music applications |
-| [mp3-player](https://github.com/UCSB-CS56-Projects/cs56-music-mp3-player)  | W14 |  ianvernon |             TBD | An app that can play music from an mp3 file |
+| [mp3-player](https://github.com/UCSB-CS56-Projects/cs56-music-mp3-player)  | TBD  |        TBD |             TBD | (ianvernon) An app that can play music from an mp3 file |
 
 ## Networking
 | Repo | Qtr | Moderator | github users | Description |
@@ -69,7 +69,7 @@
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
 | [baseball-stats](https://github.com/UCSB-CS56-Projects/cs56-scrapers-baseball-stats)  | W14 |    kjorg50 |             TBD | a scraper that gathers statistics on Major League Baseball players |
-| [pdf](https://github.com/UCSB-CS56-Projects/cs56-scrapers-pdf)  | W14 |    kjorg50 |             TBD | Utilities for scraping PDF files. Uses PDFBox as a tool. |
+| [pdf](https://github.com/UCSB-CS56-Projects/cs56-scrapers-pdf)  | W14 |        TBD |             TBD | (kjorg50) Utilities for scraping PDF files. Uses PDFBox as a tool. |
 | [ucsb-curriculum](https://github.com/UCSB-CS56-Projects/cs56-scrapers-ucsb-curriculum)  | W14 |    jstaahl |             TBD | Parser for the UCSB curriculum search |
 
 ## Tutorials
@@ -96,7 +96,7 @@
 | [password-generator](https://github.com/UCSB-CS56-Projects/cs56-utilities-password-generator)  | W14 |   jcneally |             TBD | A file that creates random passwords with a given password length |
 | [rss-reader](https://github.com/UCSB-CS56-Projects/cs56-utilities-rss-reader)  | TBD | erdinckorpeoglu |             TBD | Java interface for the website CommaFeed.com, an RSS reader.  |
 | [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  | W14 |  bkiefer13 |             TBD | Multi-level todo list application |
-| [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  | TBD |    pconrad |       moniker85 | UCSB Curriculum Scraper based on HtmlUnit |
+| [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  | TBD |        TBD |       moniker85 | (pconrad) UCSB Curriculum Scraper based on HtmlUnit |
 
-## Number of Repos Ready: 34
-## Ready and Unclaimed Repos: 34
+## Number of Repos Ready: 33
+## Ready and Unclaimed Repos: 33
