@@ -25,6 +25,7 @@
 * [name-memorization](https://github.com/UCSB-CS56-Projects/cs56-games-name-memorization)  W14 andrewberls             TBD A name memorization game 
 * [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  W14        TBD             TBD (ianvernon) Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving 
 * [pokemon-map](https://github.com/UCSB-CS56-Projects/cs56-games-pokemon-map)  W14  bkiefer13             TBD Pokemon Map Renderer 
+* [poker](https://github.com/UCSB-CS56-Projects/cs56-games-poker)  W14        TBD             TBD (pconrad) Poker Game 
 * [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong)  W14 bronhuston             TBD An implementation of the classic game Pong, with cooperative multiplayer support. 
 * [rock-paper-scissors](https://github.com/UCSB-CS56-Projects/cs56-games-rock-paper-scissors)  W14   jcneally             TBD rock paper scissors game using Pokemon 
 * [roguelike](https://github.com/UCSB-CS56-Projects/cs56-games-roguelike)  W14 andrewberls             TBD ASCII roguelike game 
@@ -83,5 +84,5 @@
 * [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  W14  bkiefer13             TBD Multi-level todo list application 
 * [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  TBD        TBD       moniker85 (pconrad) UCSB Curriculum Scraper based on HtmlUnit 
 
-## Number of Repos Ready: 41
-## Ready and Unclaimed Repos: 41
+## Number of Repos Ready: 42
+## Ready and Unclaimed Repos: 42
