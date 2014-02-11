@@ -22,6 +22,7 @@
 * [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  W14    jstaahl             TBD A program that generates at random a solvable rectangular maze 
 * [memory-card](https://github.com/UCSB-CS56-Projects/cs56-games-memory-card) 
 * [minesweeper](https://github.com/UCSB-CS56-Projects/cs56-games-minesweeper)  W14       TBD              TBD (pconrad) Minesweeper game 
+* [name-memorization](https://github.com/UCSB-CS56-Projects/cs56-games-name-memorization)  W14 andrewberls             TBD A name memorization game 
 * [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  W14        TBD             TBD (ianvernon) Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving 
 * [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong)  W14 bronhuston             TBD An implementation of the classic game Pong, with cooperative multiplayer support. 
 * [rock-paper-scissors](https://github.com/UCSB-CS56-Projects/cs56-games-rock-paper-scissors)  W14   jcneally             TBD rock paper scissors game using Pokemon 
@@ -70,6 +71,7 @@
 * [GEAR-scraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEAR-scraper)  W14 andrewberls             TBD Scrape the UCSB Gear Catalog to form lists of structured information 
 * [GEscraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEscraper) 
 * [TSA-Encryption](https://github.com/UCSB-CS56-Projects/cs56-utilities-TSA-Encryption)  W14 bronhuston             TBD TopCoder Security Agency (TSA, established today) has just invented a new encryption system! This encryption system takes as its input a list of numbers to encrypt.  
+* [binary-clock](https://github.com/UCSB-CS56-Projects/cs56-utilities-binary-clock)  TBD  bkiefer13             TBD Graphical Binary Clock 
 * [calculator](https://github.com/UCSB-CS56-Projects/cs56-utilities-calculator)  W14 andrewberls             TBD A graphical calculator written in Java 
 * [cryptography](https://github.com/UCSB-CS56-Projects/cs56-utilities-cryptography) 
 * [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  W14  bkiefer13             TBD A 2D graphing GUI 
@@ -80,5 +82,5 @@
 * [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  W14  bkiefer13             TBD Multi-level todo list application 
 * [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  TBD        TBD       moniker85 (pconrad) UCSB Curriculum Scraper based on HtmlUnit 
 
-## Number of Repos Ready: 37
-## Ready and Unclaimed Repos: 37
+## Number of Repos Ready: 38
+## Ready and Unclaimed Repos: 38
