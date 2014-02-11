@@ -63,7 +63,7 @@
 * [autocomplete](https://github.com/UCSB-CS56-Projects/cs56-tutorials-autocomplete) 
 * [expression-parsing](https://github.com/UCSB-CS56-Projects/cs56-tutorials-expression-parsing) 
 * [hfj](https://github.com/UCSB-CS56-Projects/cs56-tutorials-hfj) 
-* [image-zoom](https://github.com/UCSB-CS56-Projects/cs56-tutorials-image-zoom) 
+* [image-zoom](https://github.com/UCSB-CS56-Projects/cs56-tutorials-image-zoom)  W14        TBD             TBD (kjorg50) A tutorial illustrating how to do simple zoom in and zoom out controls on, for example, a map image. 
 * [lint-style-programs](https://github.com/UCSB-CS56-Projects/cs56-tutorials-lint-style-programs) 
 * [xml](https://github.com/UCSB-CS56-Projects/cs56-tutorials-xml) 
 
@@ -83,5 +83,5 @@
 * [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  W14  bkiefer13             TBD Multi-level todo list application 
 * [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  TBD        TBD       moniker85 (pconrad) UCSB Curriculum Scraper based on HtmlUnit 
 
-## Number of Repos Ready: 40
-## Ready and Unclaimed Repos: 40
+## Number of Repos Ready: 41
+## Ready and Unclaimed Repos: 41
