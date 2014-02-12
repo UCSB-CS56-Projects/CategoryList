@@ -19,10 +19,10 @@
 | [connectfour](https://github.com/UCSB-CS56-Projects/cs56-games-connectfour)  | W14 |  bkiefer13 |        gkowligi | An implementation of Connect Four |
 | [coop-adventure](https://github.com/UCSB-CS56-Projects/cs56-games-coop-adventure)  | W14 |        TBD |             TBD | (erdinckorpeoglu) Point and click adventure game about the Student Housing Coops |
 | [country-runner](https://github.com/UCSB-CS56-Projects/cs56-games-country-runner)  | W14 | andrewberls |             TBD | Running game with obstacles. |
-| [fish-animation](https://github.com/UCSB-CS56-Projects/cs56-games-fish-animation)  | W14 |   jcneally |             TBD | A fish animation |
+| [fish-animation](https://github.com/UCSB-CS56-Projects/cs56-games-fish-animation)  | W14 |   jcneally | jovo123, jcryan | A fish animation |
 | [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it)  | W14 |   jcneally |             TBD | A game where the goal is to get entire board to the same color |
 | [gomoku](https://github.com/UCSB-CS56-Projects/cs56-games-gomoku) 
-| [hangman](https://github.com/UCSB-CS56-Projects/cs56-games-hangman)  | W14 |  bkiefer13 |             TBD | Graphical hangman game |
+| [hangman](https://github.com/UCSB-CS56-Projects/cs56-games-hangman)  | W14 |  bkiefer13 |           bzimm | Graphical hangman game |
 | [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  | W14 |    jstaahl |             TBD | A program that generates at random a solvable rectangular maze |
 | [memory-card](https://github.com/UCSB-CS56-Projects/cs56-games-memory-card) 
 | [minesweeper](https://github.com/UCSB-CS56-Projects/cs56-games-minesweeper)  | W14 |       TBD  |             TBD | (pconrad) Minesweeper game |
@@ -35,7 +35,7 @@
 | [roguelike](https://github.com/UCSB-CS56-Projects/cs56-games-roguelike)  | W14 | andrewberls |        rick-lee | ASCII roguelike game |
 | [simon-says](https://github.com/UCSB-CS56-Projects/cs56-games-simon-says)  |  W14 |  bkiefer13 | hzpkk520,paranoia1120 | A "Simon Says" game where the player must replicate a series of actions |
 | [snake](https://github.com/UCSB-CS56-Projects/cs56-games-snake)  | W14 | bronhuston |         vinlara | Snake game |
-| [states-quiz](https://github.com/UCSB-CS56-Projects/cs56-games-states-quiz)  | W14 |   jcneally |             TBD | Quiz on US States with GUI |
+| [states-quiz](https://github.com/UCSB-CS56-Projects/cs56-games-states-quiz)  | W14 |   jcneally | zhansaya19, jennyvien | Quiz on US States with GUI |
 | [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi)  | W14 |    jstaahl |             TBD | A towers of hanoi GAME (not a solver or a simulation or an animation of the algorithm!) |
 | [treasure-hunter](https://github.com/UCSB-CS56-Projects/cs56-games-treasure-hunter)  | W14 |   jcneally |             TBD | Treasure Hunter Game |
 
@@ -89,7 +89,7 @@
 ## Utilities
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
-| [FTP-Client](https://github.com/UCSB-CS56-Projects/cs56-utilities-FTP-Client)  | W14 | andrewberls |             TBD | A FTP client which can connect to a server, download files from server and save it on local |
+| [FTP-Client](https://github.com/UCSB-CS56-Projects/cs56-utilities-FTP-Client)  | W14 | andrewberls |        dcoffill | A FTP client which can connect to a server, download files from server and save it on local |
 | [GEAR-scraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEAR-scraper)  | W14 | andrewberls |             TBD | Scrape the UCSB Gear Catalog to form lists of structured information |
 | [GEscraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEscraper) 
 | [TSA-Encryption](https://github.com/UCSB-CS56-Projects/cs56-utilities-TSA-Encryption)  | W14 | bronhuston |             TBD | TopCoder Security Agency (TSA, established today) has just invented a new encryption system! This encryption system takes as its input a list of numbers to encrypt.  |
@@ -105,4 +105,4 @@
 | [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  | TBD |        TBD |       moniker85 | (pconrad) UCSB Curriculum Scraper based on HtmlUnit |
 
 ## Number of Repos Ready: 43
-## Ready and Unclaimed Repos: 32
+## Ready and Unclaimed Repos: 28
