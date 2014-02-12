@@ -101,10 +101,9 @@
 | [password-generator](https://github.com/UCSB-CS56-Projects/cs56-utilities-password-generator)  | W14 |   jcneally |      108498asdf | A file that creates random passwords with a given password length |
 | [restaurant-list](https://github.com/UCSB-CS56-Projects/cs56-utilities-restaurant-list)  | W14 |   jcneally | andrewpang,bhammel | app that lists restaurants from its database |
 | [rss-reader](https://github.com/UCSB-CS56-Projects/cs56-utilities-rss-reader)  | TBD |        TBD |             TBD | (erdinckorpeoglu) Java interface for the website CommaFeed.com, an RSS reader.  |
-| [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  | W14 |  bkiefer13 |             TBD | Multi-level todo list application |
+| [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  | W14 |  bkiefer13 | sososohan,khaliddhanani | Multi-level todo list application |
 | [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  | TBD |        TBD |       moniker85 | (pconrad) UCSB Curriculum Scraper based on HtmlUnit |
 
 ## Number of Repos Ready: 43
-## Ready and Unclaimed Repos: 20
-## Number of UserIds Assigned: 33
-
+## Ready and Unclaimed Repos: 15
+## Number of UserIds Assigned: 42
