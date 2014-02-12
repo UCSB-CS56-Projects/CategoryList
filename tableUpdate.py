@@ -79,6 +79,8 @@ outputFile.write('# ' + 'CategoryList\n')
 
 total_ready = 0
 total_unclaimed = 0
+total_userIdsAssigned = 0
+
 for repoCategory, repoListings in alphabeticalCategories.iteritems():
     outputFile.write('\n## ' + repoCategory + '\n')
     repoListings.sort(key=lambda repoListing: repoListing.name)
@@ -97,10 +99,15 @@ for repoCategory, repoListings in alphabeticalCategories.iteritems():
                 total_ready += 1
                 if(repoListing.listOfGithubIds.strip() == "TBD") :
                     total_unclaimed += 1
+                else:
+                    total_userIdsAssigned += len(repoListing.listOfGithubIds.split(","))
 
         outputFile.write('| ' + '[' + repoListing.name + '](' + repoListing.url + ') '
                          + extraInfo + '\n')
         
 outputFile.write("\n## Number of Repos Ready: " + str(total_ready) + "\n## Ready and Unclaimed Repos: " + str(total_unclaimed))
+
+outputFile.write("\n## Number of UserIds Assigned: " + str(total_userIdsAssigned))
+
 outputFile.close()
     
