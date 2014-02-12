@@ -74,7 +74,7 @@
 | --- | --- | --------- | ------------ | -----------  |
 | [baseball-stats](https://github.com/UCSB-CS56-Projects/cs56-scrapers-baseball-stats)  | W14 |    jstaahl |     maxsorenson | (kjorg50) a scraper that gathers statistics on Major League Baseball players |
 | [pdf](https://github.com/UCSB-CS56-Projects/cs56-scrapers-pdf)  | W14 |        TBD |             TBD | (kjorg50) Utilities for scraping PDF files. Uses PDFBox as a tool. |
-| [ucsb-curriculum](https://github.com/UCSB-CS56-Projects/cs56-scrapers-ucsb-curriculum)  | W14 |    jstaahl |             TBD | Parser for the UCSB curriculum search |
+| [ucsb-curriculum](https://github.com/UCSB-CS56-Projects/cs56-scrapers-ucsb-curriculum)  | W14 |    jstaahl |          kmai12 | Parser for the UCSB curriculum search |
 
 ## Tutorials
 | Repo | Qtr | Moderator | github users | Description |
@@ -90,7 +90,7 @@
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
 | [FTP-Client](https://github.com/UCSB-CS56-Projects/cs56-utilities-FTP-Client)  | W14 | andrewberls |        dcoffill | A FTP client which can connect to a server, download files from server and save it on local |
-| [GEAR-scraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEAR-scraper)  | W14 | andrewberls |             TBD | Scrape the UCSB Gear Catalog to form lists of structured information |
+| [GEAR-scraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEAR-scraper)  | W14 | andrewberls |      alanbuzdar | Scrape the UCSB Gear Catalog to form lists of structured information |
 | [GEscraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEscraper) 
 | [TSA-Encryption](https://github.com/UCSB-CS56-Projects/cs56-utilities-TSA-Encryption)  | W14 | bronhuston |             TBD | TopCoder Security Agency (TSA, established today) has just invented a new encryption system! This encryption system takes as its input a list of numbers to encrypt.  |
 | [binary-clock](https://github.com/UCSB-CS56-Projects/cs56-utilities-binary-clock)  | W14 |  bkiefer13 |         yantsey | Graphical Binary Clock |
@@ -105,5 +105,5 @@
 | [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  | TBD |        TBD |       moniker85 | (pconrad) UCSB Curriculum Scraper based on HtmlUnit |
 
 ## Number of Repos Ready: 43
-## Ready and Unclaimed Repos: 23
-## Number of UserIds Assigned: 30
+## Ready and Unclaimed Repos: 21
+## Number of UserIds Assigned: 32
