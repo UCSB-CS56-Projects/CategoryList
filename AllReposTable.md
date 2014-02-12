@@ -62,7 +62,7 @@
 | [basic-synthesis-demo](https://github.com/UCSB-CS56-Projects/cs56-music-basic-synthesis-demo)  | W14 | bronhuston |             TBD | A basic demo of some simple synthesis starting with sine waves |
 | [beatbox](https://github.com/UCSB-CS56-Projects/cs56-music-beatbox) 
 | [guitar-tuner](https://github.com/UCSB-CS56-Projects/cs56-music-guitar-tuner)  | W14 | bronhuston |             TBD | Guitar-related music applications |
-| [mp3-player](https://github.com/UCSB-CS56-Projects/cs56-music-mp3-player)  | W14  |       j-so |      bronhuston | (ianvernon) An app that can play music from an mp3 file |
+| [mp3-player](https://github.com/UCSB-CS56-Projects/cs56-music-mp3-player)  | W14  | bronhuston |            j-so | (ianvernon) An app that can play music from an mp3 file |
 
 ## Networking
 | Repo | Qtr | Moderator | github users | Description |
