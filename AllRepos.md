@@ -12,7 +12,7 @@
 * [blackjack](https://github.com/UCSB-CS56-Projects/cs56-games-blackjack)  W14    jstaahl             TBD Blackjack game 
 * [client-server](https://github.com/UCSB-CS56-Projects/cs56-games-client-server) 
 * [client-server-v2](https://github.com/UCSB-CS56-Projects/cs56-games-client-server-v2) 
-* [connectfour](https://github.com/UCSB-CS56-Projects/cs56-games-connectfour)  W14  bkiefer13             TBD An implementation of Connect Four 
+* [connectfour](https://github.com/UCSB-CS56-Projects/cs56-games-connectfour)  W14  bkiefer13        gkowligi An implementation of Connect Four 
 * [coop-adventure](https://github.com/UCSB-CS56-Projects/cs56-games-coop-adventure)  W14        TBD             TBD (erdinckorpeoglu) Point and click adventure game about the Student Housing Coops 
 * [country-runner](https://github.com/UCSB-CS56-Projects/cs56-games-country-runner)  W14 andrewberls             TBD Running game with obstacles. 
 * [fish-animation](https://github.com/UCSB-CS56-Projects/cs56-games-fish-animation)  W14   jcneally             TBD A fish animation 
@@ -24,13 +24,13 @@
 * [minesweeper](https://github.com/UCSB-CS56-Projects/cs56-games-minesweeper)  W14       TBD              TBD (pconrad) Minesweeper game 
 * [name-memorization](https://github.com/UCSB-CS56-Projects/cs56-games-name-memorization)  W14 andrewberls             TBD A name memorization game 
 * [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  W14        TBD             TBD (ianvernon) Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving 
-* [pokemon-map](https://github.com/UCSB-CS56-Projects/cs56-games-pokemon-map)  W14  bkiefer13             TBD Pokemon Map Renderer 
+* [pokemon-map](https://github.com/UCSB-CS56-Projects/cs56-games-pokemon-map)  W14  bkiefer13 mliou, alecharrell Pokemon Map Renderer 
 * [poker](https://github.com/UCSB-CS56-Projects/cs56-games-poker)  W14        TBD             TBD (pconrad) Poker Game 
-* [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong)  W14 bronhuston             TBD An implementation of the classic game Pong, with cooperative multiplayer support. 
+* [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong)  W14 bronhuston sarahdarwiche,benjaminhartl An implementation of the classic game Pong, with cooperative multiplayer support. 
 * [rock-paper-scissors](https://github.com/UCSB-CS56-Projects/cs56-games-rock-paper-scissors)  W14   jcneally             TBD rock paper scissors game using Pokemon 
 * [roguelike](https://github.com/UCSB-CS56-Projects/cs56-games-roguelike)  W14 andrewberls             TBD ASCII roguelike game 
 * [simon-says](https://github.com/UCSB-CS56-Projects/cs56-games-simon-says)   W14  bkiefer13             TBD A "Simon Says" game where the player must replicate a series of actions 
-* [snake](https://github.com/UCSB-CS56-Projects/cs56-games-snake)  W14 bronhuston             TBD Snake game 
+* [snake](https://github.com/UCSB-CS56-Projects/cs56-games-snake)  W14 bronhuston         vinlara Snake game 
 * [states-quiz](https://github.com/UCSB-CS56-Projects/cs56-games-states-quiz)  W14   jcneally             TBD Quiz on US States with GUI 
 * [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi)  W14    jstaahl             TBD A towers of hanoi GAME (not a solver or a simulation or an animation of the algorithm!) 
 * [treasure-hunter](https://github.com/UCSB-CS56-Projects/cs56-games-treasure-hunter)  W14   jcneally             TBD Treasure Hunter Game 
@@ -53,10 +53,10 @@
 * [mp3-player](https://github.com/UCSB-CS56-Projects/cs56-music-mp3-player)  TBD         TBD             TBD (ianvernon) An app that can play music from an mp3 file 
 
 ## Networking
-* [chat](https://github.com/UCSB-CS56-Projects/cs56-networking-chat)  W14   jcneally             TBD A chat application that uses a client and a server 
+* [chat](https://github.com/UCSB-CS56-Projects/cs56-networking-chat)  W14   jcneally      ericchen94 A chat application that uses a client and a server 
 
 ## Scrapers
-* [baseball-stats](https://github.com/UCSB-CS56-Projects/cs56-scrapers-baseball-stats)  W14        TBD             TBD (kjorg50) a scraper that gathers statistics on Major League Baseball players 
+* [baseball-stats](https://github.com/UCSB-CS56-Projects/cs56-scrapers-baseball-stats)  W14    jstaahl     maxsorenson (kjorg50) a scraper that gathers statistics on Major League Baseball players 
 * [pdf](https://github.com/UCSB-CS56-Projects/cs56-scrapers-pdf)  W14        TBD             TBD (kjorg50) Utilities for scraping PDF files. Uses PDFBox as a tool. 
 * [ucsb-curriculum](https://github.com/UCSB-CS56-Projects/cs56-scrapers-ucsb-curriculum)  W14    jstaahl             TBD Parser for the UCSB curriculum search 
 
@@ -74,7 +74,7 @@
 * [GEscraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEscraper) 
 * [TSA-Encryption](https://github.com/UCSB-CS56-Projects/cs56-utilities-TSA-Encryption)  W14 bronhuston             TBD TopCoder Security Agency (TSA, established today) has just invented a new encryption system! This encryption system takes as its input a list of numbers to encrypt.  
 * [binary-clock](https://github.com/UCSB-CS56-Projects/cs56-utilities-binary-clock)  W14  bkiefer13             TBD Graphical Binary Clock 
-* [calculator](https://github.com/UCSB-CS56-Projects/cs56-utilities-calculator)  W14 andrewberls             TBD A graphical calculator written in Java 
+* [calculator](https://github.com/UCSB-CS56-Projects/cs56-utilities-calculator)  W14 andrewberls twodimension, Nazgugu A graphical calculator written in Java 
 * [cryptography](https://github.com/UCSB-CS56-Projects/cs56-utilities-cryptography) 
 * [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  W14  bkiefer13             TBD A 2D graphing GUI 
 * [ldap](https://github.com/UCSB-CS56-Projects/cs56-utilities-ldap) 
@@ -85,4 +85,4 @@
 * [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  TBD        TBD       moniker85 (pconrad) UCSB Curriculum Scraper based on HtmlUnit 
 
 ## Number of Repos Ready: 42
-## Ready and Unclaimed Repos: 42
+## Ready and Unclaimed Repos: 35
