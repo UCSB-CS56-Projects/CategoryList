@@ -19,6 +19,7 @@
 | [connectfour](https://github.com/UCSB-CS56-Projects/cs56-games-connectfour)  | W14 |  bkiefer13 |        gkowligi | An implementation of Connect Four |
 | [coop-adventure](https://github.com/UCSB-CS56-Projects/cs56-games-coop-adventure)  | W14 | bronhuston |       nissayeva | (erdinckorpeoglu) Point and click adventure game about the Student Housing Coops |
 | [country-runner](https://github.com/UCSB-CS56-Projects/cs56-games-country-runner)  | W14 | andrewberls |             TBD | Running game with obstacles. |
+| [dealer](https://github.com/UCSB-CS56-Projects/cs56-games-dealer)  | W14 |   jcneally |             TBD | Application to shuffle a deck of 52 playing cards and deal them to the user |
 | [fish-animation](https://github.com/UCSB-CS56-Projects/cs56-games-fish-animation)  | W14 |   jcneally | jovo123, jcryan | A fish animation |
 | [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it)  | W14 |   jcneally |             TBD | A game where the goal is to get entire board to the same color |
 | [gomoku](https://github.com/UCSB-CS56-Projects/cs56-games-gomoku) 
@@ -105,6 +106,6 @@
 | [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  | W14 |  bkiefer13 | sososohan,khaliddhanani | Multi-level todo list application |
 | [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  | TBD |        TBD |       moniker85 | (pconrad) UCSB Curriculum Scraper based on HtmlUnit |
 
-## Number of Repos Ready: 44
-## Ready and Unclaimed Repos: 16
+## Number of Repos Ready: 45
+## Ready and Unclaimed Repos: 17
 ## Number of UserIds Assigned: 42
