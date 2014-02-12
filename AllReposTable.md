@@ -106,3 +106,4 @@
 
 ## Number of Repos Ready: 43
 ## Ready and Unclaimed Repos: 27
+## Number of UserIds Assigned: 24
