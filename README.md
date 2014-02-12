@@ -5,14 +5,16 @@ for easy viewing.
 
 ### Instructions (Python Script)
 
-The python script (updateRepoList.py) uses PyGithub.
+The python script (tableUpdate.py) uses PyGithub.
 
-The script prompts for the user's username and password and outputs to a markdown file titled AllRepos.md.
+The script prompts for the user's username and password, and outputs
+to a markdown file in table format titled AllReposTable.md
 Make sure you have set the GHA_GITHUB_ORG environment variable to the proper organization first: 
 ```
 export GHA_GITHUB_ORG="UCSB-CS56-Projects"
-python updateRepoList.py
+python tableUpdate.py
 ```
+After the markdown files have been updated, perform a `git add`, `git commit`, and `git push` to update everything
 
 Note:
 The script only lists projects whose repo names follow the following form: cs56-(category)-(projectName)
