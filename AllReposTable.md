@@ -8,9 +8,9 @@
 ## Games
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
-| [Go](https://github.com/UCSB-CS56-Projects/cs56-games-Go)  | W14 |    jstaahl |             TBD | A gui version of the Chinese board game called Go |
+| [Go](https://github.com/UCSB-CS56-Projects/cs56-games-Go)  | W14 |    jstaahl | kwwham,nickabrahan | A gui version of the Chinese board game called Go |
 | [band-tycoon](https://github.com/UCSB-CS56-Projects/cs56-games-band-tycoon) 
-| [battleship](https://github.com/UCSB-CS56-Projects/cs56-games-battleship)  | W14 | andrewberls |             TBD | Battleship game |
+| [battleship](https://github.com/UCSB-CS56-Projects/cs56-games-battleship)  | W14 | andrewberls |       OliverHKU | Battleship game |
 | [battleship-alt](https://github.com/UCSB-CS56-Projects/cs56-games-battleship-alt) 
 | [battleship-third](https://github.com/UCSB-CS56-Projects/cs56-games-battleship-third) 
 | [blackjack](https://github.com/UCSB-CS56-Projects/cs56-games-blackjack)  | W14 |    jstaahl |             TBD | Blackjack game |
@@ -59,7 +59,7 @@
 ## Music
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
-| [basic-synthesis-demo](https://github.com/UCSB-CS56-Projects/cs56-music-basic-synthesis-demo)  | W14 | bronhuston |             TBD | A basic demo of some simple synthesis starting with sine waves |
+| [basic-synthesis-demo](https://github.com/UCSB-CS56-Projects/cs56-music-basic-synthesis-demo)  | W14 | bronhuston | rtwaltman, dwang68 | A basic demo of some simple synthesis starting with sine waves |
 | [beatbox](https://github.com/UCSB-CS56-Projects/cs56-music-beatbox) 
 | [guitar-tuner](https://github.com/UCSB-CS56-Projects/cs56-music-guitar-tuner)  | W14 | bronhuston |             TBD | Guitar-related music applications |
 | [mp3-player](https://github.com/UCSB-CS56-Projects/cs56-music-mp3-player)  | W14  | bronhuston |            j-so | (ianvernon) An app that can play music from an mp3 file |
@@ -93,7 +93,7 @@
 | [GEAR-scraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEAR-scraper)  | W14 | andrewberls |             TBD | Scrape the UCSB Gear Catalog to form lists of structured information |
 | [GEscraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEscraper) 
 | [TSA-Encryption](https://github.com/UCSB-CS56-Projects/cs56-utilities-TSA-Encryption)  | W14 | bronhuston |             TBD | TopCoder Security Agency (TSA, established today) has just invented a new encryption system! This encryption system takes as its input a list of numbers to encrypt.  |
-| [binary-clock](https://github.com/UCSB-CS56-Projects/cs56-utilities-binary-clock)  | W14 |  bkiefer13 |             TBD | Graphical Binary Clock |
+| [binary-clock](https://github.com/UCSB-CS56-Projects/cs56-utilities-binary-clock)  | W14 |  bkiefer13 |         yantsey | Graphical Binary Clock |
 | [calculator](https://github.com/UCSB-CS56-Projects/cs56-utilities-calculator)  | W14 | andrewberls | twodimension, Nazgugu | A graphical calculator written in Java |
 | [cryptography](https://github.com/UCSB-CS56-Projects/cs56-utilities-cryptography) 
 | [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  | W14 |  bkiefer13 |             TBD | A 2D graphing GUI |
@@ -105,5 +105,5 @@
 | [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  | TBD |        TBD |       moniker85 | (pconrad) UCSB Curriculum Scraper based on HtmlUnit |
 
 ## Number of Repos Ready: 43
-## Ready and Unclaimed Repos: 27
-## Number of UserIds Assigned: 24
+## Ready and Unclaimed Repos: 23
+## Number of UserIds Assigned: 30
