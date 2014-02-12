@@ -27,7 +27,7 @@
 | [memory-card](https://github.com/UCSB-CS56-Projects/cs56-games-memory-card) 
 | [minesweeper](https://github.com/UCSB-CS56-Projects/cs56-games-minesweeper)  | W14 |       TBD  |             TBD | (pconrad) Minesweeper game |
 | [name-memorization](https://github.com/UCSB-CS56-Projects/cs56-games-name-memorization)  | W14 | andrewberls |             TBD | A name memorization game |
-| [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  | W14 |        TBD |             TBD | (ianvernon) Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving |
+| [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  | W14 | katfom, dmhartsook |             TBD | (ianvernon) Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving |
 | [pokemon-map](https://github.com/UCSB-CS56-Projects/cs56-games-pokemon-map)  | W14 |  bkiefer13 | mliou, alecharrell | Pokemon Map Renderer |
 | [poker](https://github.com/UCSB-CS56-Projects/cs56-games-poker)  | W14 |        TBD |             TBD | (pconrad) Poker Game |
 | [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong)  | W14 | bronhuston | sarahdarwiche,benjaminhartl | An implementation of the classic game Pong, with cooperative multiplayer support. |
@@ -99,10 +99,10 @@
 | [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  | W14 |  bkiefer13 |             TBD | A 2D graphing GUI |
 | [ldap](https://github.com/UCSB-CS56-Projects/cs56-utilities-ldap) 
 | [password-generator](https://github.com/UCSB-CS56-Projects/cs56-utilities-password-generator)  | W14 |   jcneally |             TBD | A file that creates random passwords with a given password length |
-| [restaurant-list](https://github.com/UCSB-CS56-Projects/cs56-utilities-restaurant-list)  | W14 |   jcneally |             TBD | app that lists restaurants from its database |
+| [restaurant-list](https://github.com/UCSB-CS56-Projects/cs56-utilities-restaurant-list)  | W14 |   jcneally | andrewpang,bhammel | app that lists restaurants from its database |
 | [rss-reader](https://github.com/UCSB-CS56-Projects/cs56-utilities-rss-reader)  | TBD |        TBD |             TBD | (erdinckorpeoglu) Java interface for the website CommaFeed.com, an RSS reader.  |
 | [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  | W14 |  bkiefer13 |             TBD | Multi-level todo list application |
 | [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  | TBD |        TBD |       moniker85 | (pconrad) UCSB Curriculum Scraper based on HtmlUnit |
 
 ## Number of Repos Ready: 43
-## Ready and Unclaimed Repos: 28
+## Ready and Unclaimed Repos: 27
