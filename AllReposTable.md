@@ -32,8 +32,8 @@
 | [poker](https://github.com/UCSB-CS56-Projects/cs56-games-poker)  | W14 |        TBD |             TBD | (pconrad) Poker Game |
 | [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong)  | W14 | bronhuston | sarahdarwiche,benjaminhartl | An implementation of the classic game Pong, with cooperative multiplayer support. |
 | [rock-paper-scissors](https://github.com/UCSB-CS56-Projects/cs56-games-rock-paper-scissors)  | W14 |   jcneally |             TBD | rock paper scissors game using Pokemon |
-| [roguelike](https://github.com/UCSB-CS56-Projects/cs56-games-roguelike)  | W14 | andrewberls |             TBD | ASCII roguelike game |
-| [simon-says](https://github.com/UCSB-CS56-Projects/cs56-games-simon-says)  |  W14 |  bkiefer13 |             TBD | A "Simon Says" game where the player must replicate a series of actions |
+| [roguelike](https://github.com/UCSB-CS56-Projects/cs56-games-roguelike)  | W14 | andrewberls |        rick-lee | ASCII roguelike game |
+| [simon-says](https://github.com/UCSB-CS56-Projects/cs56-games-simon-says)  |  W14 |  bkiefer13 | hzpkk520,paranoia1120 | A "Simon Says" game where the player must replicate a series of actions |
 | [snake](https://github.com/UCSB-CS56-Projects/cs56-games-snake)  | W14 | bronhuston |         vinlara | Snake game |
 | [states-quiz](https://github.com/UCSB-CS56-Projects/cs56-games-states-quiz)  | W14 |   jcneally |             TBD | Quiz on US States with GUI |
 | [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi)  | W14 |    jstaahl |             TBD | A towers of hanoi GAME (not a solver or a simulation or an animation of the algorithm!) |
@@ -47,7 +47,7 @@
 ## Math
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
-| [conversion-quiz](https://github.com/UCSB-CS56-Projects/cs56-math-conversion-quiz)  | W14 | bronhuston |             TBD | GUI for binary/octal/hex/decimal conversion quiz |
+| [conversion-quiz](https://github.com/UCSB-CS56-Projects/cs56-math-conversion-quiz)  | W14 | bronhuston |  ashedden,l-y-s | GUI for binary/octal/hex/decimal conversion quiz |
 
 ## Misc
 | Repo | Qtr | Moderator | github users | Description |
@@ -62,7 +62,7 @@
 | [basic-synthesis-demo](https://github.com/UCSB-CS56-Projects/cs56-music-basic-synthesis-demo)  | W14 | bronhuston |             TBD | A basic demo of some simple synthesis starting with sine waves |
 | [beatbox](https://github.com/UCSB-CS56-Projects/cs56-music-beatbox) 
 | [guitar-tuner](https://github.com/UCSB-CS56-Projects/cs56-music-guitar-tuner)  | W14 | bronhuston |             TBD | Guitar-related music applications |
-| [mp3-player](https://github.com/UCSB-CS56-Projects/cs56-music-mp3-player)  | TBD  |        TBD |             TBD | (ianvernon) An app that can play music from an mp3 file |
+| [mp3-player](https://github.com/UCSB-CS56-Projects/cs56-music-mp3-player)  | W14  |       j-so |      bronhuston | (ianvernon) An app that can play music from an mp3 file |
 
 ## Networking
 | Repo | Qtr | Moderator | github users | Description |
@@ -104,5 +104,5 @@
 | [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  | W14 |  bkiefer13 |             TBD | Multi-level todo list application |
 | [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  | TBD |        TBD |       moniker85 | (pconrad) UCSB Curriculum Scraper based on HtmlUnit |
 
-## Number of Repos Ready: 42
-## Ready and Unclaimed Repos: 35
+## Number of Repos Ready: 43
+## Ready and Unclaimed Repos: 32
