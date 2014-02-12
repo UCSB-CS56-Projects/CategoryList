@@ -17,7 +17,7 @@
 | [client-server](https://github.com/UCSB-CS56-Projects/cs56-games-client-server) 
 | [client-server-v2](https://github.com/UCSB-CS56-Projects/cs56-games-client-server-v2) 
 | [connectfour](https://github.com/UCSB-CS56-Projects/cs56-games-connectfour)  | W14 |  bkiefer13 |        gkowligi | An implementation of Connect Four |
-| [coop-adventure](https://github.com/UCSB-CS56-Projects/cs56-games-coop-adventure)  | W14 |        TBD |             TBD | (erdinckorpeoglu) Point and click adventure game about the Student Housing Coops |
+| [coop-adventure](https://github.com/UCSB-CS56-Projects/cs56-games-coop-adventure)  | W14 | bronhuston |       nissayeva | (erdinckorpeoglu) Point and click adventure game about the Student Housing Coops |
 | [country-runner](https://github.com/UCSB-CS56-Projects/cs56-games-country-runner)  | W14 | andrewberls |             TBD | Running game with obstacles. |
 | [fish-animation](https://github.com/UCSB-CS56-Projects/cs56-games-fish-animation)  | W14 |   jcneally | jovo123, jcryan | A fish animation |
 | [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it)  | W14 |   jcneally |             TBD | A game where the goal is to get entire board to the same color |
@@ -105,5 +105,5 @@
 | [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  | TBD |        TBD |       moniker85 | (pconrad) UCSB Curriculum Scraper based on HtmlUnit |
 
 ## Number of Repos Ready: 43
-## Ready and Unclaimed Repos: 21
-## Number of UserIds Assigned: 32
+## Ready and Unclaimed Repos: 20
+## Number of UserIds Assigned: 33
