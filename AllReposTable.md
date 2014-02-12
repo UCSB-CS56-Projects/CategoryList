@@ -105,5 +105,6 @@
 | [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  | TBD |        TBD |       moniker85 | (pconrad) UCSB Curriculum Scraper based on HtmlUnit |
 
 ## Number of Repos Ready: 43
-## Ready and Unclaimed Repos: 16
-## Number of UserIds Assigned: 40
+## Ready and Unclaimed Repos: 20
+## Number of UserIds Assigned: 33
+
