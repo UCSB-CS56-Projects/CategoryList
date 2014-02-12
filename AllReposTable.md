@@ -17,7 +17,7 @@
 | [client-server](https://github.com/UCSB-CS56-Projects/cs56-games-client-server) 
 | [client-server-v2](https://github.com/UCSB-CS56-Projects/cs56-games-client-server-v2) 
 | [connectfour](https://github.com/UCSB-CS56-Projects/cs56-games-connectfour)  | W14 |  bkiefer13 |        gkowligi | An implementation of Connect Four |
-| [coop-adventure](https://github.com/UCSB-CS56-Projects/cs56-games-coop-adventure)  | W14 |        TBD |             TBD | (erdinckorpeoglu) Point and click adventure game about the Student Housing Coops |
+| [coop-adventure](https://github.com/UCSB-CS56-Projects/cs56-games-coop-adventure)  | W14 | bronhuston |       nissayeva | (erdinckorpeoglu) Point and click adventure game about the Student Housing Coops |
 | [country-runner](https://github.com/UCSB-CS56-Projects/cs56-games-country-runner)  | W14 | andrewberls |             TBD | Running game with obstacles. |
 | [fish-animation](https://github.com/UCSB-CS56-Projects/cs56-games-fish-animation)  | W14 |   jcneally | jovo123, jcryan | A fish animation |
 | [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it)  | W14 |   jcneally |             TBD | A game where the goal is to get entire board to the same color |
@@ -25,7 +25,7 @@
 | [hangman](https://github.com/UCSB-CS56-Projects/cs56-games-hangman)  | W14 |  bkiefer13 |           bzimm | Graphical hangman game |
 | [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  | W14 |    jstaahl |             TBD | A program that generates at random a solvable rectangular maze |
 | [memory-card](https://github.com/UCSB-CS56-Projects/cs56-games-memory-card) 
-| [minesweeper](https://github.com/UCSB-CS56-Projects/cs56-games-minesweeper)  | W14 |       TBD  |             TBD | (pconrad) Minesweeper game |
+| [minesweeper](https://github.com/UCSB-CS56-Projects/cs56-games-minesweeper)  | W14 |   jstaahl  | jgee67, davidacevedo | (pconrad) Minesweeper game |
 | [name-memorization](https://github.com/UCSB-CS56-Projects/cs56-games-name-memorization)  | W14 | andrewberls |             TBD | A name memorization game |
 | [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  | W14 | katfom, dmhartsook |             TBD | (ianvernon) Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving |
 | [pokemon-map](https://github.com/UCSB-CS56-Projects/cs56-games-pokemon-map)  | W14 |  bkiefer13 | mliou, alecharrell | Pokemon Map Renderer |
@@ -37,7 +37,7 @@
 | [snake](https://github.com/UCSB-CS56-Projects/cs56-games-snake)  | W14 | bronhuston |         vinlara | Snake game |
 | [states-quiz](https://github.com/UCSB-CS56-Projects/cs56-games-states-quiz)  | W14 |   jcneally | zhansaya19, jennyvien | Quiz on US States with GUI |
 | [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi)  | W14 |    jstaahl |             TBD | A towers of hanoi GAME (not a solver or a simulation or an animation of the algorithm!) |
-| [treasure-hunter](https://github.com/UCSB-CS56-Projects/cs56-games-treasure-hunter)  | W14 |   jcneally |             TBD | Treasure Hunter Game |
+| [treasure-hunter](https://github.com/UCSB-CS56-Projects/cs56-games-treasure-hunter)  | W14 |   jcneally | migueld37, menaiskander | Treasure Hunter Game |
 
 ## Languages
 | Repo | Qtr | Moderator | github users | Description |
@@ -82,7 +82,7 @@
 | [autocomplete](https://github.com/UCSB-CS56-Projects/cs56-tutorials-autocomplete) 
 | [expression-parsing](https://github.com/UCSB-CS56-Projects/cs56-tutorials-expression-parsing) 
 | [hfj](https://github.com/UCSB-CS56-Projects/cs56-tutorials-hfj) 
-| [image-zoom](https://github.com/UCSB-CS56-Projects/cs56-tutorials-image-zoom)  | W14 |        TBD |             TBD | (kjorg50) A tutorial illustrating how to do simple zoom in and zoom out controls on, for example, a map image. |
+| [image-zoom](https://github.com/UCSB-CS56-Projects/cs56-tutorials-image-zoom)  | W14 |    jstaahl | derek-x-wang,RexLang | (kjorg50) A tutorial illustrating how to do simple zoom in and zoom out controls on, for example, a map image. |
 | [lint-style-programs](https://github.com/UCSB-CS56-Projects/cs56-tutorials-lint-style-programs) 
 | [xml](https://github.com/UCSB-CS56-Projects/cs56-tutorials-xml) 
 
@@ -98,12 +98,12 @@
 | [cryptography](https://github.com/UCSB-CS56-Projects/cs56-utilities-cryptography) 
 | [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  | W14 |  bkiefer13 |             TBD | A 2D graphing GUI |
 | [ldap](https://github.com/UCSB-CS56-Projects/cs56-utilities-ldap) 
-| [password-generator](https://github.com/UCSB-CS56-Projects/cs56-utilities-password-generator)  | W14 |   jcneally |             TBD | A file that creates random passwords with a given password length |
+| [password-generator](https://github.com/UCSB-CS56-Projects/cs56-utilities-password-generator)  | W14 |   jcneally |      108498asdf | A file that creates random passwords with a given password length |
 | [restaurant-list](https://github.com/UCSB-CS56-Projects/cs56-utilities-restaurant-list)  | W14 |   jcneally | andrewpang,bhammel | app that lists restaurants from its database |
 | [rss-reader](https://github.com/UCSB-CS56-Projects/cs56-utilities-rss-reader)  | TBD |        TBD |             TBD | (erdinckorpeoglu) Java interface for the website CommaFeed.com, an RSS reader.  |
 | [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  | W14 |  bkiefer13 |             TBD | Multi-level todo list application |
 | [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  | TBD |        TBD |       moniker85 | (pconrad) UCSB Curriculum Scraper based on HtmlUnit |
 
 ## Number of Repos Ready: 43
-## Ready and Unclaimed Repos: 21
-## Number of UserIds Assigned: 32
+## Ready and Unclaimed Repos: 16
+## Number of UserIds Assigned: 40
