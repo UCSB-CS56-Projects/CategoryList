@@ -42,7 +42,6 @@
 ## Scrapers
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
-| [pdf](https://github.com/UCSB-CS56-Projects/cs56-scrapers-pdf)  | W14 |        TBD |             TBD | (kjorg50) Utilities for scraping PDF files. Uses PDFBox as a tool. |
 
 ## Tutorials
 | Repo | Qtr | Moderator | github users | Description |
@@ -54,7 +53,7 @@
 | [credit-card-validator](https://github.com/UCSB-CS56-Projects/cs56-utilities-credit-card-validator)  | W14 | andrewberls |             TBD | A credit card number validator |
 | [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  | W14 |  bkiefer13 |             TBD | A 2D graphing GUI |
 
-### Ready and Unclaimed Repos: 14
+### Ready and Unclaimed Repos: 13
 
 # ASSIGNED REPOS
 
@@ -113,6 +112,7 @@
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
 | [baseball-stats](https://github.com/UCSB-CS56-Projects/cs56-scrapers-baseball-stats)  | W14 | jstaahl 5pm |     maxsorenson | (kjorg50) a scraper that gathers statistics on Major League Baseball players |
+| [pdf](https://github.com/UCSB-CS56-Projects/cs56-scrapers-pdf)  | W14 | jstaahl (4pm) |      bernardyan | (kjorg50) Utilities for scraping PDF files. Uses PDFBox as a tool. |
 | [ucsb-curriculum](https://github.com/UCSB-CS56-Projects/cs56-scrapers-ucsb-curriculum)  | W14 | jstaahl 4pm |          kmai12 | Parser for the UCSB curriculum search |
 
 ## Tutorials
@@ -134,6 +134,6 @@
 
 ### Number of Repos Ready: 48
 
-### Number of Repos Assigned: 34
+### Number of Repos Assigned: 35
 
-### Number of UserIds Assigned: 52
+### Number of UserIds Assigned: 53
