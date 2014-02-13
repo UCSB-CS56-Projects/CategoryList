@@ -10,7 +10,6 @@
 | [beetle](https://github.com/UCSB-CS56-Projects/cs56-games-beetle)  | W14 | bronhuston |             TBD | Roll dice to build a beetle |
 | [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it)  | W14 |   jcneally |             TBD | A game where the goal is to get entire board to the same color |
 | [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  | W14 |    jstaahl |             TBD | A program that generates at random a solvable rectangular maze |
-| [name-memorization](https://github.com/UCSB-CS56-Projects/cs56-games-name-memorization)  | W14 | andrewberls |             TBD | A name memorization game |
 | [poker](https://github.com/UCSB-CS56-Projects/cs56-games-poker)  | W14 |        TBD |             TBD | (pconrad) Poker Game |
 | [rock-paper-scissors](https://github.com/UCSB-CS56-Projects/cs56-games-rock-paper-scissors)  | W14 |   jcneally |             TBD | rock paper scissors game using Pokemon |
 | [simple-rpg](https://github.com/UCSB-CS56-Projects/cs56-games-simple-rpg)  | W14 | bronhuston |             TBD | A simple rpg game |
@@ -52,7 +51,7 @@
 | [credit-card-validator](https://github.com/UCSB-CS56-Projects/cs56-utilities-credit-card-validator)  | W14 | andrewberls |             TBD | A credit card number validator |
 | [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  | W14 |  bkiefer13 |             TBD | A 2D graphing GUI |
 
-### Ready and Unclaimed Repos: 12
+### Ready and Unclaimed Repos: 11
 
 # ASSIGNED REPOS
 
@@ -74,6 +73,7 @@
 | [fish-animation](https://github.com/UCSB-CS56-Projects/cs56-games-fish-animation)  | W14 | jcneally 5pm | jovo123, jcryan | A fish animation |
 | [hangman](https://github.com/UCSB-CS56-Projects/cs56-games-hangman)  | W14 | bkiefer13 5pm |           bzimm | Graphical hangman game |
 | [minesweeper](https://github.com/UCSB-CS56-Projects/cs56-games-minesweeper)  | W14 | jstaahl 4pm | jgee67, davidacevedo | (pconrad) Minesweeper game |
+| [name-memorization](https://github.com/UCSB-CS56-Projects/cs56-games-name-memorization)  | W14 | andrewberls 5pm | ahoang512,theredraid | A name memorization game |
 | [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  | W14 |        TBD | katfom, dmhartsook | (ianvernon) Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving |
 | [pokemon-map](https://github.com/UCSB-CS56-Projects/cs56-games-pokemon-map)  | W14 | bkiefer13 5pm | mliou, alecharrell |  Pokemon Map Renderer |
 | [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong)  | W14 | bronhuston 4pm | sarahdarwiche,benjaminhartl | An implementation of the classic game Pong, with cooperative multiplayer support. |
@@ -134,6 +134,6 @@
 
 ### Number of Repos Ready: 48
 
-### Number of Repos Assigned: 36
+### Number of Repos Assigned: 37
 
-### Number of UserIds Assigned: 54
+### Number of UserIds Assigned: 56
