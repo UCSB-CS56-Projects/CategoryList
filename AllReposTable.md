@@ -74,7 +74,7 @@
 | [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  | W14 | bkiefer13 4pm | katfom, dmhartsook | (ianvernon) Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving |
 | [pokemon-map](https://github.com/UCSB-CS56-Projects/cs56-games-pokemon-map)  | W14 | bkiefer13 5pm | mliou, alecharrell |  Pokemon Map Renderer |
 | [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong)  | W14 | bronhuston 4pm | sarahdarwiche,benjaminhartl | An implementation of the classic game Pong, with cooperative multiplayer support. |
-| [rock-paper-scissors](https://github.com/UCSB-CS56-Projects/cs56-games-rock-paper-scissors)  | W14 | jcneally 4pm |      lesleykhuu | rock paper scissors game using Pokemon |
+| [rock-paper-scissors](https://github.com/UCSB-CS56-Projects/cs56-games-rock-paper-scissors)  | W14 | bkiefer13 4pm |      lesleykhuu | (jcneally) rock paper scissors game using Pokemon |
 | [roguelike](https://github.com/UCSB-CS56-Projects/cs56-games-roguelike)  | W14 | andrewberls 4pm |        rick-lee | ASCII roguelike game |
 | [simon-says](https://github.com/UCSB-CS56-Projects/cs56-games-simon-says)  |  W14 | bkiefer13 5pm | hzpkk520,paranoia1120 | A "Simon Says" game where the player must replicate a series of actions |
 | [simple-rpg](https://github.com/UCSB-CS56-Projects/cs56-games-simple-rpg)  | W14 | bronhuston 5pm |     barasuishou | A simple rpg game |
@@ -127,14 +127,12 @@
 | [TSA-Encryption](https://github.com/UCSB-CS56-Projects/cs56-utilities-TSA-Encryption)  | W14 | bronhuston 4pm | rkjha7, xgmak94 | TopCoder Security Agency (TSA, established today) has just invented a new encryption system! This encryption system takes as its input a list of numbers to encrypt.  |
 | [binary-clock](https://github.com/UCSB-CS56-Projects/cs56-utilities-binary-clock)  | W14 | bkiefer13 5pm |         yantsey | Graphical Binary Clock |
 | [calculator](https://github.com/UCSB-CS56-Projects/cs56-utilities-calculator)  | W14 | andrewberls 4pm | twodimension, Nazgugu |  A graphical calculator written in Java |
-| [password-generator](https://github.com/UCSB-CS56-Projects/cs56-utilities-password-generator)  | W14 | jcneally 4pm |      108498asdf | A file that creates random passwords with a given password length |
+| [password-generator](https://github.com/UCSB-CS56-Projects/cs56-utilities-password-generator)  | W14 | bkiefer13 4pm |      108498asdf | (jcneally) A file that creates random passwords with a given password length |
 | [restaurant-list](https://github.com/UCSB-CS56-Projects/cs56-utilities-restaurant-list)  | W14 | jcneally 4pm | andrewpang,bhammel | app that lists restaurants from its database |
 | [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  | W14 | bkiefer13  5pm | sososohan,khaliddhanani | Multi-level todo list application |
-
 
 ### Number of Repos Ready: 47
 
 ### Number of Repos Assigned: 41
 
 ### Number of UserIds Assigned: 61
-
