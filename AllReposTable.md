@@ -8,11 +8,13 @@
 ## Games
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
+| [beetle](https://github.com/UCSB-CS56-Projects/cs56-games-beetle)  | W14 | bronhuston |             TBD | Roll dice to build a beetle |
 | [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it)  | W14 |   jcneally |             TBD | A game where the goal is to get entire board to the same color |
 | [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  | W14 |    jstaahl |             TBD | A program that generates at random a solvable rectangular maze |
 | [name-memorization](https://github.com/UCSB-CS56-Projects/cs56-games-name-memorization)  | W14 | andrewberls |             TBD | A name memorization game |
 | [poker](https://github.com/UCSB-CS56-Projects/cs56-games-poker)  | W14 |        TBD |             TBD | (pconrad) Poker Game |
 | [rock-paper-scissors](https://github.com/UCSB-CS56-Projects/cs56-games-rock-paper-scissors)  | W14 |   jcneally |             TBD | rock paper scissors game using Pokemon |
+| [simple-rpg](https://github.com/UCSB-CS56-Projects/cs56-games-simple-rpg)  | W14 | bronhuston |             TBD | A simple rpg game |
 | [tetris](https://github.com/UCSB-CS56-Projects/cs56-games-tetris)  | W14 | andrewberls |             TBD | A Tetris game |
 | [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi)  | W14 |    jstaahl |             TBD | A towers of hanoi GAME (not a solver or a simulation or an animation of the algorithm!) |
 
@@ -53,7 +55,7 @@
 | [credit-card-validator](https://github.com/UCSB-CS56-Projects/cs56-utilities-credit-card-validator)  | W14 | andrewberls |             TBD | A credit card number validator |
 | [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  | W14 |  bkiefer13 |             TBD | A 2D graphing GUI |
 
-### Ready and Unclaimed Repos: 13
+### Ready and Unclaimed Repos: 15
 
 # ASSIGNED REPOS
 
@@ -130,7 +132,7 @@
 | [restaurant-list](https://github.com/UCSB-CS56-Projects/cs56-utilities-restaurant-list)  | W14 | jcneally 4pm | andrewpang,bhammel | app that lists restaurants from its database |
 | [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  | W14 | bkiefer13  5pm | sososohan,khaliddhanani | Multi-level todo list application |
 
-### Number of Repos Ready: 46
+### Number of Repos Ready: 48
 
 ### Number of Repos Assigned: 33
 
