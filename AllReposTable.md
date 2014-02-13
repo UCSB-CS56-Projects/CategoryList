@@ -131,9 +131,10 @@
 | [password-generator](https://github.com/UCSB-CS56-Projects/cs56-utilities-password-generator)  | W14 | bkiefer13 4pm |      108498asdf | (jcneally) A file that creates random passwords with a given password length |
 | [restaurant-list](https://github.com/UCSB-CS56-Projects/cs56-utilities-restaurant-list)  | W14 | jcneally 4pm | andrewpang,bhammel | app that lists restaurants from its database |
 | [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  | W14 | bkiefer13  5pm | sososohan,khaliddhanani | Multi-level todo list application |
+| [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  | W14 | andrewberls 5pm |       moniker85 | (pconrad) UCSB Curriculum Scraper based on HtmlUnit |
 
-### Number of Repos Ready: 48
+### Number of Repos Ready: 49
 
-### Number of Repos Assigned: 42
+### Number of Repos Assigned: 43
 
-### Number of UserIds Assigned: 63
+### Number of UserIds Assigned: 64
