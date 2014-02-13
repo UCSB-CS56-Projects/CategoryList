@@ -9,7 +9,6 @@
 | --- | --- | --------- | ------------ | -----------  |
 | [beetle](https://github.com/UCSB-CS56-Projects/cs56-games-beetle)  | W14 | bronhuston |             TBD | Roll dice to build a beetle |
 | [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it)  | W14 |   jcneally |             TBD | A game where the goal is to get entire board to the same color |
-| [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  | W14 |    jstaahl |             TBD | A program that generates at random a solvable rectangular maze |
 | [poker](https://github.com/UCSB-CS56-Projects/cs56-games-poker)  | W14 |        TBD |             TBD | (pconrad) Poker Game |
 | [simple-rpg](https://github.com/UCSB-CS56-Projects/cs56-games-simple-rpg)  | W14 | bronhuston |             TBD | A simple rpg game |
 | [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi)  | W14 |    jstaahl |             TBD | A towers of hanoi GAME (not a solver or a simulation or an animation of the algorithm!) |
@@ -50,7 +49,7 @@
 | [credit-card-validator](https://github.com/UCSB-CS56-Projects/cs56-utilities-credit-card-validator)  | W14 | andrewberls |             TBD | A credit card number validator |
 | [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  | W14 |  bkiefer13 |             TBD | A 2D graphing GUI |
 
-### Ready and Unclaimed Repos: 10
+### Ready and Unclaimed Repos: 9
 
 # ASSIGNED REPOS
 
@@ -71,6 +70,7 @@
 | [dealer](https://github.com/UCSB-CS56-Projects/cs56-games-dealer)  | W14 | jcneally 4pm |         acantor | Application to shuffle a deck of 52 playing cards and deal them to the user |
 | [fish-animation](https://github.com/UCSB-CS56-Projects/cs56-games-fish-animation)  | W14 | jcneally 5pm | jovo123, jcryan | A fish animation |
 | [hangman](https://github.com/UCSB-CS56-Projects/cs56-games-hangman)  | W14 | bkiefer13 5pm |           bzimm | Graphical hangman game |
+| [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  | W14 | jstaahl 4pm | loganortega, richardwang94 | A program that generates at random a solvable rectangular maze |
 | [minesweeper](https://github.com/UCSB-CS56-Projects/cs56-games-minesweeper)  | W14 | jstaahl 4pm | jgee67, davidacevedo | (pconrad) Minesweeper game |
 | [name-memorization](https://github.com/UCSB-CS56-Projects/cs56-games-name-memorization)  | W14 | andrewberls 5pm | ahoang512,theredraid | A name memorization game |
 | [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  | W14 |        TBD | katfom, dmhartsook | (ianvernon) Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving |
@@ -134,6 +134,6 @@
 
 ### Number of Repos Ready: 48
 
-### Number of Repos Assigned: 38
+### Number of Repos Assigned: 39
 
-### Number of UserIds Assigned: 57
+### Number of UserIds Assigned: 59
