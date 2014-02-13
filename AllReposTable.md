@@ -131,8 +131,10 @@
 | [restaurant-list](https://github.com/UCSB-CS56-Projects/cs56-utilities-restaurant-list)  | W14 | jcneally 4pm | andrewpang,bhammel | app that lists restaurants from its database |
 | [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  | W14 | bkiefer13  5pm | sososohan,khaliddhanani | Multi-level todo list application |
 
+
 ### Number of Repos Ready: 47
 
 ### Number of Repos Assigned: 41
 
 ### Number of UserIds Assigned: 61
+
