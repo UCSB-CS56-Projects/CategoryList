@@ -112,7 +112,7 @@
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
 | [baseball-stats](https://github.com/UCSB-CS56-Projects/cs56-scrapers-baseball-stats)  | W14 | jstaahl 5pm |     maxsorenson | (kjorg50) a scraper that gathers statistics on Major League Baseball players |
-| [pdf](https://github.com/UCSB-CS56-Projects/cs56-scrapers-pdf)  | W14 | jstaahl (4pm) |      bernardyan | (kjorg50) Utilities for scraping PDF files. Uses PDFBox as a tool. |
+| [pdf](https://github.com/UCSB-CS56-Projects/cs56-scrapers-pdf)  | W14 | jstaahl 4pm |      bernardyan | (kjorg50) Utilities for scraping PDF files. Uses PDFBox as a tool. |
 | [ucsb-curriculum](https://github.com/UCSB-CS56-Projects/cs56-scrapers-ucsb-curriculum)  | W14 | jstaahl 4pm |          kmai12 | Parser for the UCSB curriculum search |
 
 ## Tutorials
