@@ -11,7 +11,6 @@
 | [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it)  | W14 |   jcneally |             TBD | A game where the goal is to get entire board to the same color |
 | [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  | W14 |    jstaahl |             TBD | A program that generates at random a solvable rectangular maze |
 | [poker](https://github.com/UCSB-CS56-Projects/cs56-games-poker)  | W14 |        TBD |             TBD | (pconrad) Poker Game |
-| [rock-paper-scissors](https://github.com/UCSB-CS56-Projects/cs56-games-rock-paper-scissors)  | W14 |   jcneally |             TBD | rock paper scissors game using Pokemon |
 | [simple-rpg](https://github.com/UCSB-CS56-Projects/cs56-games-simple-rpg)  | W14 | bronhuston |             TBD | A simple rpg game |
 | [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi)  | W14 |    jstaahl |             TBD | A towers of hanoi GAME (not a solver or a simulation or an animation of the algorithm!) |
 
@@ -51,7 +50,7 @@
 | [credit-card-validator](https://github.com/UCSB-CS56-Projects/cs56-utilities-credit-card-validator)  | W14 | andrewberls |             TBD | A credit card number validator |
 | [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  | W14 |  bkiefer13 |             TBD | A 2D graphing GUI |
 
-### Ready and Unclaimed Repos: 11
+### Ready and Unclaimed Repos: 10
 
 # ASSIGNED REPOS
 
@@ -77,6 +76,7 @@
 | [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  | W14 |        TBD | katfom, dmhartsook | (ianvernon) Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving |
 | [pokemon-map](https://github.com/UCSB-CS56-Projects/cs56-games-pokemon-map)  | W14 | bkiefer13 5pm | mliou, alecharrell |  Pokemon Map Renderer |
 | [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong)  | W14 | bronhuston 4pm | sarahdarwiche,benjaminhartl | An implementation of the classic game Pong, with cooperative multiplayer support. |
+| [rock-paper-scissors](https://github.com/UCSB-CS56-Projects/cs56-games-rock-paper-scissors)  | W14 | jcneally 4pm |      lesleykhuu | rock paper scissors game using Pokemon |
 | [roguelike](https://github.com/UCSB-CS56-Projects/cs56-games-roguelike)  | W14 | andrewberls 4pm |        rick-lee | ASCII roguelike game |
 | [simon-says](https://github.com/UCSB-CS56-Projects/cs56-games-simon-says)  |  W14 | bkiefer13 5pm | hzpkk520,paranoia1120 | A "Simon Says" game where the player must replicate a series of actions |
 | [snake](https://github.com/UCSB-CS56-Projects/cs56-games-snake)  | W14 | bronhuston 4pm |         vinlara | Snake game |
@@ -134,6 +134,6 @@
 
 ### Number of Repos Ready: 48
 
-### Number of Repos Assigned: 37
+### Number of Repos Assigned: 38
 
-### Number of UserIds Assigned: 56
+### Number of UserIds Assigned: 57
