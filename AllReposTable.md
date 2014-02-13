@@ -118,6 +118,7 @@
 ## Tutorials
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
+| [image-zoom](https://github.com/UCSB-CS56-Projects/cs56-tutorials-image-zoom)  | W14 | jstaah| 5pm | derek-x-wang,RexLang | (kjorg50) A tutorial illustrating how to do simple zoom in and zoom out controls on, for example, a map image. |
 
 ## Utilities
 | Repo | Qtr | Moderator | github users | Description |
@@ -131,8 +132,8 @@
 | [restaurant-list](https://github.com/UCSB-CS56-Projects/cs56-utilities-restaurant-list)  | W14 | jcneally 4pm | andrewpang,bhammel | app that lists restaurants from its database |
 | [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  | W14 | bkiefer13  5pm | sososohan,khaliddhanani | Multi-level todo list application |
 
-### Number of Repos Ready: 47
+### Number of Repos Ready: 48
 
-### Number of Repos Assigned: 41
+### Number of Repos Assigned: 42
 
-### Number of UserIds Assigned: 61
+### Number of UserIds Assigned: 63
