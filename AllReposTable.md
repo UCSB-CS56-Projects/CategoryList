@@ -69,7 +69,7 @@
 | [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it)  | W14 |   jcneally | krbriggs, christopherluo | A game where the goal is to get entire board to the same color |
 | [hangman](https://github.com/UCSB-CS56-Projects/cs56-games-hangman)  | W14 | bkiefer13 5pm |           bzimm | Graphical hangman game |
 | [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  | W14 | jstaahl 4pm | loganortega, richardwang94 | A program that generates at random a solvable rectangular maze |
-| [minesweeper](https://github.com/UCSB-CS56-Projects/cs56-games-minesweeper)  | W14 | jstaahl 4pm | jgee67, davidacevedo | (pconrad) Minesweeper game |
+| [minesweeper](https://github.com/UCSB-CS56-Projects/cs56-games-minesweeper)  | W14 | andrewberls 4pm | jgee67, davidacevedo | (pconrad) Minesweeper game |
 | [name-memorization](https://github.com/UCSB-CS56-Projects/cs56-games-name-memorization)  | W14 | andrewberls 5pm | ahoang512,theredraid | A name memorization game |
 | [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  | W14 | bkiefer13 4pm | katfom, dmhartsook | (ianvernon) Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving |
 | [pokemon-map](https://github.com/UCSB-CS56-Projects/cs56-games-pokemon-map)  | W14 | bkiefer13 5pm | mliou, alecharrell |  Pokemon Map Renderer |
