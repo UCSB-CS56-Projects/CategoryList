@@ -71,7 +71,7 @@
 | [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  | W14 | jstaahl 4pm | loganortega, richardwang94 | A program that generates at random a solvable rectangular maze |
 | [minesweeper](https://github.com/UCSB-CS56-Projects/cs56-games-minesweeper)  | W14 | jstaahl 4pm | jgee67, davidacevedo | (pconrad) Minesweeper game |
 | [name-memorization](https://github.com/UCSB-CS56-Projects/cs56-games-name-memorization)  | W14 | andrewberls 5pm | ahoang512,theredraid | A name memorization game |
-| [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  | W14 |        TBD | katfom, dmhartsook | (ianvernon) Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving |
+| [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  | W14 | bkiefer13 4pm | katfom, dmhartsook | (ianvernon) Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving |
 | [pokemon-map](https://github.com/UCSB-CS56-Projects/cs56-games-pokemon-map)  | W14 | bkiefer13 5pm | mliou, alecharrell |  Pokemon Map Renderer |
 | [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong)  | W14 | bronhuston 4pm | sarahdarwiche,benjaminhartl | An implementation of the classic game Pong, with cooperative multiplayer support. |
 | [rock-paper-scissors](https://github.com/UCSB-CS56-Projects/cs56-games-rock-paper-scissors)  | W14 | jcneally 4pm |      lesleykhuu | rock paper scissors game using Pokemon |
