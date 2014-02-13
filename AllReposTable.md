@@ -70,7 +70,7 @@
 | [hangman](https://github.com/UCSB-CS56-Projects/cs56-games-hangman)  | W14 | bkiefer13 5pm |           bzimm | Graphical hangman game |
 | [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  | W14 | jstaahl 4pm | loganortega, richardwang94 | A program that generates at random a solvable rectangular maze |
 | [minesweeper](https://github.com/UCSB-CS56-Projects/cs56-games-minesweeper)  | W14 | andrewberls 4pm | jgee67, davidacevedo | (pconrad) Minesweeper game |
-| [name-memorization](https://github.com/UCSB-CS56-Projects/cs56-games-name-memorization)  | W14 | andrewberls 5pm | ahoang512,theredraid | A name memorization game |
+| [name-memorization](https://github.com/UCSB-CS56-Projects/cs56-games-name-memorization)  | W14 | jstaahl 5pm | ahoang512,theredraid | (andrewberls) A name memorization game |
 | [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  | W14 | bkiefer13 4pm | katfom, dmhartsook | (ianvernon) Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving |
 | [pokemon-map](https://github.com/UCSB-CS56-Projects/cs56-games-pokemon-map)  | W14 | bkiefer13 5pm | mliou, alecharrell |  Pokemon Map Renderer |
 | [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong)  | W14 | bronhuston 4pm | sarahdarwiche,benjaminhartl | An implementation of the classic game Pong, with cooperative multiplayer support. |
@@ -130,7 +130,7 @@
 | [calculator](https://github.com/UCSB-CS56-Projects/cs56-utilities-calculator)  | W14 | andrewberls 4pm | twodimension, Nazgugu |  A graphical calculator written in Java |
 | [password-generator](https://github.com/UCSB-CS56-Projects/cs56-utilities-password-generator)  | W14 | bkiefer13 4pm |      108498asdf | (jcneally) A file that creates random passwords with a given password length |
 | [restaurant-list](https://github.com/UCSB-CS56-Projects/cs56-utilities-restaurant-list)  | W14 | jcneally 4pm | andrewpang,bhammel | app that lists restaurants from its database |
-| [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  | W14 | bkiefer13  5pm | sososohan,khaliddhanani | Multi-level todo list application |
+| [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  | W14 | jstaah  5pm | sososohan,khaliddhanani | (bkiefer13) Multi-level todo list application |
 | [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  | W14 | andrewberls 5pm |       moniker85 | (pconrad) UCSB Curriculum Scraper based on HtmlUnit |
 
 ### Number of Repos Ready: 49
