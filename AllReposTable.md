@@ -16,9 +16,9 @@
 | [blackjack](https://github.com/UCSB-CS56-Projects/cs56-games-blackjack)  | W14 |    jstaahl |             TBD | Blackjack game |
 | [client-server](https://github.com/UCSB-CS56-Projects/cs56-games-client-server) 
 | [client-server-v2](https://github.com/UCSB-CS56-Projects/cs56-games-client-server-v2) 
-| [connectfour](https://github.com/UCSB-CS56-Projects/cs56-games-connectfour)  | W14 |  bkiefer13 |        gkowligi | An implementation of Connect Four |
+| [connectfour](https://github.com/UCSB-CS56-Projects/cs56-games-connectfour)  | W14 |  bkiefer13 | gkowligi, vwtan | An implementation of Connect Four |
 | [coop-adventure](https://github.com/UCSB-CS56-Projects/cs56-games-coop-adventure)  | W14 | bronhuston |       nissayeva | (erdinckorpeoglu) Point and click adventure game about the Student Housing Coops |
-| [country-runner](https://github.com/UCSB-CS56-Projects/cs56-games-country-runner)  | W14 | andrewberls |             TBD | Running game with obstacles. |
+| [country-runner](https://github.com/UCSB-CS56-Projects/cs56-games-country-runner)  | W14 | andrewberls | thetomcraig, sdrhoads | Running game with obstacles. |
 | [dealer](https://github.com/UCSB-CS56-Projects/cs56-games-dealer)  | W14 |   jcneally |             TBD | Application to shuffle a deck of 52 playing cards and deal them to the user |
 | [fish-animation](https://github.com/UCSB-CS56-Projects/cs56-games-fish-animation)  | W14 |   jcneally | jovo123, jcryan | A fish animation |
 | [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it)  | W14 |   jcneally |             TBD | A game where the goal is to get entire board to the same color |
@@ -94,9 +94,10 @@
 | [FTP-Client](https://github.com/UCSB-CS56-Projects/cs56-utilities-FTP-Client)  | W14 | andrewberls |        dcoffill | A FTP client which can connect to a server, download files from server and save it on local |
 | [GEAR-scraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEAR-scraper)  | W14 | andrewberls |      alanbuzdar | Scrape the UCSB Gear Catalog to form lists of structured information |
 | [GEscraper](https://github.com/UCSB-CS56-Projects/cs56-utilities-GEscraper) 
-| [TSA-Encryption](https://github.com/UCSB-CS56-Projects/cs56-utilities-TSA-Encryption)  | W14 | bronhuston |             TBD | TopCoder Security Agency (TSA, established today) has just invented a new encryption system! This encryption system takes as its input a list of numbers to encrypt.  |
+| [TSA-Encryption](https://github.com/UCSB-CS56-Projects/cs56-utilities-TSA-Encryption)  | W14 | bronhuston | rkjha7, xgmak94 | TopCoder Security Agency (TSA, established today) has just invented a new encryption system! This encryption system takes as its input a list of numbers to encrypt.  |
 | [binary-clock](https://github.com/UCSB-CS56-Projects/cs56-utilities-binary-clock)  | W14 |  bkiefer13 |         yantsey | Graphical Binary Clock |
 | [calculator](https://github.com/UCSB-CS56-Projects/cs56-utilities-calculator)  | W14 | andrewberls | twodimension, Nazgugu | A graphical calculator written in Java |
+| [credit-card-validator](https://github.com/UCSB-CS56-Projects/cs56-utilities-credit-card-validator)  | W14 | andrewberls |             TBD | A credit card number validator |
 | [cryptography](https://github.com/UCSB-CS56-Projects/cs56-utilities-cryptography) 
 | [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  | W14 |  bkiefer13 |             TBD | A 2D graphing GUI |
 | [ldap](https://github.com/UCSB-CS56-Projects/cs56-utilities-ldap) 
@@ -106,6 +107,6 @@
 | [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  | W14 |  bkiefer13 | sososohan,khaliddhanani | Multi-level todo list application |
 | [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  | TBD |        TBD |       moniker85 | (pconrad) UCSB Curriculum Scraper based on HtmlUnit |
 
-## Number of Repos Ready: 45
-## Ready and Unclaimed Repos: 17
-## Number of UserIds Assigned: 42
+## Number of Repos Ready: 46
+## Ready and Unclaimed Repos: 16
+## Number of UserIds Assigned: 47
