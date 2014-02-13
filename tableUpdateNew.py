@@ -104,12 +104,13 @@ for repoCategory, repoListings in alphabeticalCategories.iteritems():
                 outputFile.write('| ' + '[' + repoListing.name + '](' + repoListing.url + ') '
                          + extraInfo + '\n')
         
-outputFile.write("\n## Ready and Unclaimed Repos: " + str(total_unclaimed) + "\n\n")
+outputFile.write("\n### Ready and Unclaimed Repos: " + str(total_unclaimed) + "\n\n")
 
 outputFile.write('# ' + 'ALL REPOS\n')
 
 total_ready = 0
 total_userIdsAssigned = 0
+total_reposAssigned = 0
 
 for repoCategory, repoListings in alphabeticalCategories.iteritems():
     outputFile.write('\n## ' + repoCategory + '\n')
@@ -129,13 +130,15 @@ for repoCategory, repoListings in alphabeticalCategories.iteritems():
                 total_ready += 1
                 if(repoListing.listOfGithubIds.strip() != "TBD") :
                     total_userIdsAssigned += len(repoListing.listOfGithubIds.split(","))
+                    total_reposAssigned += 1
 
-        outputFile.write('| ' + '[' + repoListing.name + '](' + repoListing.url + ') '
+                    outputFile.write('| ' + '[' + repoListing.name + '](' + repoListing.url + ') '
                          + extraInfo + '\n')
         
-outputFile.write("\n## Number of Repos Ready: " + str(total_ready) + "\n")
+outputFile.write("\n### Number of Repos Ready: " + str(total_ready) + "\n")
+outputFile.write("\n### Number of Repos Assigned: " + str(total_reposAssigned) + "\n")
 
-outputFile.write("\n## Number of UserIds Assigned: " + str(total_userIdsAssigned) + "\n")
+outputFile.write("\n### Number of UserIds Assigned: " + str(total_userIdsAssigned) + "\n")
 
 
 outputFile.close()
