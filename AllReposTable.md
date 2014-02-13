@@ -3,7 +3,6 @@
 ## Discretemath
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
-| [towers-sierpinski](https://github.com/UCSB-CS56-Projects/cs56-discretemath-towers-sierpinski)  | W14 |    jstaahl |             TBD | Java software to explore the relationship between the Towers of Hanoi and the Sierpinski Triangle |
 
 ## Games
 | Repo | Qtr | Moderator | github users | Description |
@@ -55,13 +54,14 @@
 | [credit-card-validator](https://github.com/UCSB-CS56-Projects/cs56-utilities-credit-card-validator)  | W14 | andrewberls |             TBD | A credit card number validator |
 | [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  | W14 |  bkiefer13 |             TBD | A 2D graphing GUI |
 
-### Ready and Unclaimed Repos: 15
+### Ready and Unclaimed Repos: 14
 
 # ASSIGNED REPOS
 
 ## Discretemath
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
+| [towers-sierpinski](https://github.com/UCSB-CS56-Projects/cs56-discretemath-towers-sierpinski)  | W14 | jstaahl 4pm |     ShadowAries | Java software to explore the relationship between the Towers of Hanoi and the Sierpinski Triangle |
 
 ## Games
 | Repo | Qtr | Moderator | github users | Description |
@@ -134,6 +134,6 @@
 
 ### Number of Repos Ready: 48
 
-### Number of Repos Assigned: 33
+### Number of Repos Assigned: 34
 
-### Number of UserIds Assigned: 51
+### Number of UserIds Assigned: 52
