@@ -14,7 +14,6 @@
 | [poker](https://github.com/UCSB-CS56-Projects/cs56-games-poker)  | W14 |        TBD |             TBD | (pconrad) Poker Game |
 | [rock-paper-scissors](https://github.com/UCSB-CS56-Projects/cs56-games-rock-paper-scissors)  | W14 |   jcneally |             TBD | rock paper scissors game using Pokemon |
 | [simple-rpg](https://github.com/UCSB-CS56-Projects/cs56-games-simple-rpg)  | W14 | bronhuston |             TBD | A simple rpg game |
-| [tetris](https://github.com/UCSB-CS56-Projects/cs56-games-tetris)  | W14 | andrewberls |             TBD | A Tetris game |
 | [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi)  | W14 |    jstaahl |             TBD | A towers of hanoi GAME (not a solver or a simulation or an animation of the algorithm!) |
 
 ## Languages
@@ -53,7 +52,7 @@
 | [credit-card-validator](https://github.com/UCSB-CS56-Projects/cs56-utilities-credit-card-validator)  | W14 | andrewberls |             TBD | A credit card number validator |
 | [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  | W14 |  bkiefer13 |             TBD | A 2D graphing GUI |
 
-### Ready and Unclaimed Repos: 13
+### Ready and Unclaimed Repos: 12
 
 # ASSIGNED REPOS
 
@@ -82,6 +81,7 @@
 | [simon-says](https://github.com/UCSB-CS56-Projects/cs56-games-simon-says)  |  W14 | bkiefer13 5pm | hzpkk520,paranoia1120 | A "Simon Says" game where the player must replicate a series of actions |
 | [snake](https://github.com/UCSB-CS56-Projects/cs56-games-snake)  | W14 | bronhuston 4pm |         vinlara | Snake game |
 | [states-quiz](https://github.com/UCSB-CS56-Projects/cs56-games-states-quiz)  | W14 | jcneally 5pm | zhansaya19, jennyvien | Quiz on US States with GUI |
+| [tetris](https://github.com/UCSB-CS56-Projects/cs56-games-tetris)  | W14 | andrewberls (5pm) |      sumersinha | A Tetris game |
 | [treasure-hunter](https://github.com/UCSB-CS56-Projects/cs56-games-treasure-hunter)  | W14 | jcneally 5pm | migueld37, menaiskander | Treasure Hunter Game |
 
 ## Languages
@@ -134,6 +134,6 @@
 
 ### Number of Repos Ready: 48
 
-### Number of Repos Assigned: 35
+### Number of Repos Assigned: 36
 
-### Number of UserIds Assigned: 53
+### Number of UserIds Assigned: 54
