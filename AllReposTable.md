@@ -130,7 +130,7 @@
 | [calculator](https://github.com/UCSB-CS56-Projects/cs56-utilities-calculator)  | W14 | andrewberls 4pm | twodimension, Nazgugu |  A graphical calculator written in Java |
 | [password-generator](https://github.com/UCSB-CS56-Projects/cs56-utilities-password-generator)  | W14 | bkiefer13 4pm |      108498asdf | (jcneally) A file that creates random passwords with a given password length |
 | [restaurant-list](https://github.com/UCSB-CS56-Projects/cs56-utilities-restaurant-list)  | W14 | jcneally 4pm | andrewpang,bhammel | app that lists restaurants from its database |
-| [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  | W14 | jstaah  5pm | sososohan,khaliddhanani | (bkiefer13) Multi-level todo list application |
+| [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  | W14 | jstaahl 5pm | sososohan,khaliddhanani | (bkiefer13) Multi-level todo list application |
 | [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  | W14 | andrewberls 5pm |       moniker85 | (pconrad) UCSB Curriculum Scraper based on HtmlUnit |
 
 ### Number of Repos Ready: 49
