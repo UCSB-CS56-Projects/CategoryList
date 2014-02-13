@@ -3,18 +3,12 @@
 ## Discretemath
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
-| [towers-sierpinski](https://github.com/UCSB-CS56-Projects/cs56-discretemath-towers-sierpinski)  | W14 |    jstaahl |             TBD | Java software to explore the relationship between the Towers of Hanoi and the Sierpinski Triangle |
 
 ## Games
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
-| [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it)  | W14 |   jcneally |             TBD | A game where the goal is to get entire board to the same color |
-| [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  | W14 |    jstaahl |             TBD | A program that generates at random a solvable rectangular maze |
-| [name-memorization](https://github.com/UCSB-CS56-Projects/cs56-games-name-memorization)  | W14 | andrewberls |             TBD | A name memorization game |
+| [beetle](https://github.com/UCSB-CS56-Projects/cs56-games-beetle)  | W14 | bronhuston |             TBD | Roll dice to build a beetle |
 | [poker](https://github.com/UCSB-CS56-Projects/cs56-games-poker)  | W14 |        TBD |             TBD | (pconrad) Poker Game |
-| [rock-paper-scissors](https://github.com/UCSB-CS56-Projects/cs56-games-rock-paper-scissors)  | W14 |   jcneally |             TBD | rock paper scissors game using Pokemon |
-| [tetris](https://github.com/UCSB-CS56-Projects/cs56-games-tetris)  | W14 | andrewberls |             TBD | A Tetris game |
-| [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi)  | W14 |    jstaahl |             TBD | A towers of hanoi GAME (not a solver or a simulation or an animation of the algorithm!) |
 
 ## Languages
 | Repo | Qtr | Moderator | github users | Description |
@@ -41,7 +35,6 @@
 ## Scrapers
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
-| [pdf](https://github.com/UCSB-CS56-Projects/cs56-scrapers-pdf)  | W14 |        TBD |             TBD | (kjorg50) Utilities for scraping PDF files. Uses PDFBox as a tool. |
 
 ## Tutorials
 | Repo | Qtr | Moderator | github users | Description |
@@ -53,13 +46,14 @@
 | [credit-card-validator](https://github.com/UCSB-CS56-Projects/cs56-utilities-credit-card-validator)  | W14 | andrewberls |             TBD | A credit card number validator |
 | [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  | W14 |  bkiefer13 |             TBD | A 2D graphing GUI |
 
-### Ready and Unclaimed Repos: 13
+### Ready and Unclaimed Repos: 6
 
 # ASSIGNED REPOS
 
 ## Discretemath
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
+| [towers-sierpinski](https://github.com/UCSB-CS56-Projects/cs56-discretemath-towers-sierpinski)  | W14 | jstaahl 4pm |     ShadowAries | Java software to explore the relationship between the Towers of Hanoi and the Sierpinski Triangle |
 
 ## Games
 | Repo | Qtr | Moderator | github users | Description |
@@ -72,15 +66,22 @@
 | [country-runner](https://github.com/UCSB-CS56-Projects/cs56-games-country-runner)  | W14 | andrewberls 4pm | thetomcraig, sdrhoads | Running game with obstacles. |
 | [dealer](https://github.com/UCSB-CS56-Projects/cs56-games-dealer)  | W14 | jcneally 4pm |         acantor | Application to shuffle a deck of 52 playing cards and deal them to the user |
 | [fish-animation](https://github.com/UCSB-CS56-Projects/cs56-games-fish-animation)  | W14 | jcneally 5pm | jovo123, jcryan | A fish animation |
+| [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it)  | W14 |   jcneally | krbriggs, christopherluo | A game where the goal is to get entire board to the same color |
 | [hangman](https://github.com/UCSB-CS56-Projects/cs56-games-hangman)  | W14 | bkiefer13 5pm |           bzimm | Graphical hangman game |
+| [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  | W14 | jstaahl 4pm | loganortega, richardwang94 | A program that generates at random a solvable rectangular maze |
 | [minesweeper](https://github.com/UCSB-CS56-Projects/cs56-games-minesweeper)  | W14 | jstaahl 4pm | jgee67, davidacevedo | (pconrad) Minesweeper game |
-| [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  | W14 |        TBD | katfom, dmhartsook | (ianvernon) Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving |
+| [name-memorization](https://github.com/UCSB-CS56-Projects/cs56-games-name-memorization)  | W14 | andrewberls 5pm | ahoang512,theredraid | A name memorization game |
+| [pacman](https://github.com/UCSB-CS56-Projects/cs56-games-pacman)  | W14 | bkiefer13 4pm | katfom, dmhartsook | (ianvernon) Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving |
 | [pokemon-map](https://github.com/UCSB-CS56-Projects/cs56-games-pokemon-map)  | W14 | bkiefer13 5pm | mliou, alecharrell |  Pokemon Map Renderer |
 | [pong](https://github.com/UCSB-CS56-Projects/cs56-games-pong)  | W14 | bronhuston 4pm | sarahdarwiche,benjaminhartl | An implementation of the classic game Pong, with cooperative multiplayer support. |
+| [rock-paper-scissors](https://github.com/UCSB-CS56-Projects/cs56-games-rock-paper-scissors)  | W14 | jcneally 4pm |      lesleykhuu | rock paper scissors game using Pokemon |
 | [roguelike](https://github.com/UCSB-CS56-Projects/cs56-games-roguelike)  | W14 | andrewberls 4pm |        rick-lee | ASCII roguelike game |
 | [simon-says](https://github.com/UCSB-CS56-Projects/cs56-games-simon-says)  |  W14 | bkiefer13 5pm | hzpkk520,paranoia1120 | A "Simon Says" game where the player must replicate a series of actions |
+| [simple-rpg](https://github.com/UCSB-CS56-Projects/cs56-games-simple-rpg)  | W14 | bronhuston 5pm |     barasuishou | A simple rpg game |
 | [snake](https://github.com/UCSB-CS56-Projects/cs56-games-snake)  | W14 | bronhuston 4pm |         vinlara | Snake game |
 | [states-quiz](https://github.com/UCSB-CS56-Projects/cs56-games-states-quiz)  | W14 | jcneally 5pm | zhansaya19, jennyvien | Quiz on US States with GUI |
+| [tetris](https://github.com/UCSB-CS56-Projects/cs56-games-tetris)  | W14 | andrewberls 5pm |      sumersinha | A Tetris game |
+| [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi)  | W14 | jstaahl 5pm |        amwexler | A towers of hanoi GAME (not a solver or a simulation or an animation of the algorithm!) |
 | [treasure-hunter](https://github.com/UCSB-CS56-Projects/cs56-games-treasure-hunter)  | W14 | jcneally 5pm | migueld37, menaiskander | Treasure Hunter Game |
 
 ## Languages
@@ -111,12 +112,12 @@
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
 | [baseball-stats](https://github.com/UCSB-CS56-Projects/cs56-scrapers-baseball-stats)  | W14 | jstaahl 5pm |     maxsorenson | (kjorg50) a scraper that gathers statistics on Major League Baseball players |
+| [pdf](https://github.com/UCSB-CS56-Projects/cs56-scrapers-pdf)  | W14 | jstaahl (4pm) |      bernardyan | (kjorg50) Utilities for scraping PDF files. Uses PDFBox as a tool. |
 | [ucsb-curriculum](https://github.com/UCSB-CS56-Projects/cs56-scrapers-ucsb-curriculum)  | W14 | jstaahl 4pm |          kmai12 | Parser for the UCSB curriculum search |
 
 ## Tutorials
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
-| [image-zoom](https://github.com/UCSB-CS56-Projects/cs56-tutorials-image-zoom)  | W14 | jstaah| 5pm | derek-x-wang,RexLang | (kjorg50) A tutorial illustrating how to do simple zoom in and zoom out controls on, for example, a map image. |
 
 ## Utilities
 | Repo | Qtr | Moderator | github users | Description |
@@ -130,8 +131,8 @@
 | [restaurant-list](https://github.com/UCSB-CS56-Projects/cs56-utilities-restaurant-list)  | W14 | jcneally 4pm | andrewpang,bhammel | app that lists restaurants from its database |
 | [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  | W14 | bkiefer13  5pm | sososohan,khaliddhanani | Multi-level todo list application |
 
-### Number of Repos Ready: 46
+### Number of Repos Ready: 47
 
-### Number of Repos Assigned: 33
+### Number of Repos Assigned: 41
 
-### Number of UserIds Assigned: 51
+### Number of UserIds Assigned: 61
