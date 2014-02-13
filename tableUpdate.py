@@ -75,7 +75,9 @@ for repo in org.get_repos():
 # Alphabetize the projectCategories dictionary and output each list of RepoListing objects alphabetically to the markdown file
 alphabeticalCategories = OrderedDict(sorted(projectCategories.items(), key=lambda repoCategory: repoCategory[0]))
 outputFile = open('AllReposTable.md', 'w')
-outputFile.write('# ' + 'CategoryList\n')
+
+
+outputFile.write('# ' + 'UNASSIGNED REPOS\n')
 
 total_ready = 0
 total_unclaimed = 0
@@ -95,19 +97,49 @@ for repoCategory, repoListings in alphabeticalCategories.iteritems():
                                              repoListing.moderator,
                                              repoListing.listOfGithubIds,
                                              repoListing.description) )
-            if(repoListing.quarter.strip() == "W14") :
-                total_ready += 1
-                if(repoListing.listOfGithubIds.strip() == "TBD") :
-                    total_unclaimed += 1
-                else:
-                    total_userIdsAssigned += len(repoListing.listOfGithubIds.split(","))
+            if(repoListing.quarter.strip() == "W14" and repoListing.listOfGithubIds.strip()=="TBD") :
 
-        outputFile.write('| ' + '[' + repoListing.name + '](' + repoListing.url + ') '
+                total_unclaimed += 1
+
+                outputFile.write('| ' + '[' + repoListing.name + '](' + repoListing.url + ') '
                          + extraInfo + '\n')
         
-outputFile.write("\n## Number of Repos Ready: " + str(total_ready) + "\n## Ready and Unclaimed Repos: " + str(total_unclaimed))
+outputFile.write("\n### Ready and Unclaimed Repos: " + str(total_unclaimed) + "\n\n")
 
-outputFile.write("\n## Number of UserIds Assigned: " + str(total_userIdsAssigned))
+outputFile.write('# ' + 'ASSIGNED REPOS\n')
+
+total_ready = 0
+total_userIdsAssigned = 0
+total_reposAssigned = 0
+
+for repoCategory, repoListings in alphabeticalCategories.iteritems():
+    outputFile.write('\n## ' + repoCategory + '\n')
+    repoListings.sort(key=lambda repoListing: repoListing.name)
+
+    outputFile.write("| Repo | Qtr | Moderator | github users | Description |\n");
+    outputFile.write("| --- | --- | --------- | ------------ | -----------  |\n");
+
+    for repoListing in repoListings:
+        extraInfo = ""
+        if (repoListing.quarter != "") :
+            extraInfo +=  ( ' | %3s | %10s | %15s | %s |' % ( repoListing.quarter,
+                                             repoListing.moderator,
+                                             repoListing.listOfGithubIds,
+                                             repoListing.description) )
+            if(repoListing.quarter.strip() == "W14") :
+                total_ready += 1
+                if(repoListing.listOfGithubIds.strip() != "TBD") :
+                    total_userIdsAssigned += len(repoListing.listOfGithubIds.split(","))
+                    total_reposAssigned += 1
+
+                    outputFile.write('| ' + '[' + repoListing.name + '](' + repoListing.url + ') '
+                         + extraInfo + '\n')
+        
+outputFile.write("\n### Number of Repos Ready: " + str(total_ready) + "\n")
+outputFile.write("\n### Number of Repos Assigned: " + str(total_reposAssigned) + "\n")
+
+outputFile.write("\n### Number of UserIds Assigned: " + str(total_userIdsAssigned) + "\n")
+
 
 outputFile.close()
     
