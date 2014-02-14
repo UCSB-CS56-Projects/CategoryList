@@ -118,7 +118,6 @@
 ## Tutorials
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
-| [image-zoom](https://github.com/UCSB-CS56-Projects/cs56-tutorials-image-zoom)  | W14 | jstaah| 5pm | derek-x-wang,RexLang | (kjorg50) A tutorial illustrating how to do simple zoom in and zoom out controls on, for example, a map image. |
 
 ## Utilities
 | Repo | Qtr | Moderator | github users | Description |
@@ -133,8 +132,8 @@
 | [todo](https://github.com/UCSB-CS56-Projects/cs56-utilities-todo)  | W14 | jstaahl 5pm | sososohan,khaliddhanani | (bkiefer13) Multi-level todo list application |
 | [ucsb-curriculum-htmlunit](https://github.com/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit)  | W14 | andrewberls 5pm |       moniker85 | (pconrad) UCSB Curriculum Scraper based on HtmlUnit |
 
-### Number of Repos Ready: 49
+### Number of Repos Ready: 48
 
-### Number of Repos Assigned: 43
+### Number of Repos Assigned: 42
 
-### Number of UserIds Assigned: 64
+### Number of UserIds Assigned: 62
