@@ -7,7 +7,6 @@
 ## Games
 | Repo | Qtr | Moderator | github users | Description |
 | --- | --- | --------- | ------------ | -----------  |
-| [beetle](https://github.com/UCSB-CS56-Projects/cs56-games-beetle)  | W14 | bronhuston |             TBD | Roll dice to build a beetle |
 | [poker](https://github.com/UCSB-CS56-Projects/cs56-games-poker)  | W14 |        TBD |             TBD | (pconrad) Poker Game |
 
 ## Languages
@@ -46,7 +45,7 @@
 | [credit-card-validator](https://github.com/UCSB-CS56-Projects/cs56-utilities-credit-card-validator)  | W14 | andrewberls |             TBD | A credit card number validator |
 | [grapher](https://github.com/UCSB-CS56-Projects/cs56-utilities-grapher)  | W14 |  bkiefer13 |             TBD | A 2D graphing GUI |
 
-### Ready and Unclaimed Repos: 6
+### Ready and Unclaimed Repos: 5
 
 # ASSIGNED REPOS
 
@@ -60,6 +59,7 @@
 | --- | --- | --------- | ------------ | -----------  |
 | [Go](https://github.com/UCSB-CS56-Projects/cs56-games-Go)  | W14 | jstaahl 4pm | kwwham,nickabrahan | A gui version of the Chinese board game called Go |
 | [battleship](https://github.com/UCSB-CS56-Projects/cs56-games-battleship)  | W14 | andrewberls 5pm |      OliverHKU  | Battleship game |
+| [beetle](https://github.com/UCSB-CS56-Projects/cs56-games-beetle)  | W14 | bronhuston 5pm |            kjih | Roll dice to build a beetle |
 | [blackjack](https://github.com/UCSB-CS56-Projects/cs56-games-blackjack)  | W14 | andrewberls 5pm |      ericpalyan | (jstaahl) Blackjack game |
 | [connectfour](https://github.com/UCSB-CS56-Projects/cs56-games-connectfour)  | W14 | bkiefer13 4pm | gkowligi, vwtan | An implementation of Connect Four |
 | [coop-adventure](https://github.com/UCSB-CS56-Projects/cs56-games-coop-adventure)  | W14 | bronhuston 4pm |       nissayeva | (erdinckorpeoglu) Point and click adventure game about the Student Housing Coops |
@@ -135,6 +135,6 @@
 
 ### Number of Repos Ready: 49
 
-### Number of Repos Assigned: 43
+### Number of Repos Assigned: 44
 
-### Number of UserIds Assigned: 64
+### Number of UserIds Assigned: 65
