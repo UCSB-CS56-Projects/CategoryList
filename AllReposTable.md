@@ -60,7 +60,7 @@
 | --- | --- | --------- | ------------ | -----------  |
 | [Go](https://github.com/UCSB-CS56-Projects/cs56-games-Go)  | W14 | jstaahl 4pm | kwwham,nickabrahan | A gui version of the Chinese board game called Go |
 | [battleship](https://github.com/UCSB-CS56-Projects/cs56-games-battleship)  | W14 | andrewberls 5pm |      OliverHKU  | Battleship game |
-| [blackjack](https://github.com/UCSB-CS56-Projects/cs56-games-blackjack)  | W14 | jstaahl 5pm |      ericpalyan | Blackjack game |
+| [blackjack](https://github.com/UCSB-CS56-Projects/cs56-games-blackjack)  | W14 | andrewberls 5pm |      ericpalyan | (jstaahl) Blackjack game |
 | [connectfour](https://github.com/UCSB-CS56-Projects/cs56-games-connectfour)  | W14 | bkiefer13 4pm | gkowligi, vwtan | An implementation of Connect Four |
 | [coop-adventure](https://github.com/UCSB-CS56-Projects/cs56-games-coop-adventure)  | W14 | bronhuston 4pm |       nissayeva | (erdinckorpeoglu) Point and click adventure game about the Student Housing Coops |
 | [country-runner](https://github.com/UCSB-CS56-Projects/cs56-games-country-runner)  | W14 | andrewberls 4pm | thetomcraig, sdrhoads | Running game with obstacles. |
@@ -81,7 +81,7 @@
 | [snake](https://github.com/UCSB-CS56-Projects/cs56-games-snake)  | W14 | bronhuston 4pm |         vinlara | Snake game |
 | [states-quiz](https://github.com/UCSB-CS56-Projects/cs56-games-states-quiz)  | W14 | jcneally 5pm | zhansaya19, jennyvien | Quiz on US States with GUI |
 | [tetris](https://github.com/UCSB-CS56-Projects/cs56-games-tetris)  | W14 | andrewberls 5pm |      sumersinha | A Tetris game |
-| [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi)  | W14 | jstaahl 5pm |        amwexler | A towers of hanoi GAME (not a solver or a simulation or an animation of the algorithm!) |
+| [towers-of-hanoi](https://github.com/UCSB-CS56-Projects/cs56-games-towers-of-hanoi)  | W14 | bkiefer13 5pm |        amwexler | (jstaahl) A towers of hanoi GAME (not a solver or a simulation or an animation of the algorithm!) |
 | [treasure-hunter](https://github.com/UCSB-CS56-Projects/cs56-games-treasure-hunter)  | W14 | jcneally 5pm | migueld37, menaiskander | Treasure Hunter Game |
 
 ## Languages
