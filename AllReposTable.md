@@ -66,7 +66,7 @@
 | [country-runner](https://github.com/UCSB-CS56-Projects/cs56-games-country-runner)  | W14 | andrewberls 4pm | thetomcraig, sdrhoads | Running game with obstacles. |
 | [dealer](https://github.com/UCSB-CS56-Projects/cs56-games-dealer)  | W14 | jcneally 4pm |         acantor | Application to shuffle a deck of 52 playing cards and deal them to the user |
 | [fish-animation](https://github.com/UCSB-CS56-Projects/cs56-games-fish-animation)  | W14 | jcneally 5pm | jovo123, jcryan | A fish animation |
-| [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it)  | W14 |   jcneally | krbriggs, christopherluo | A game where the goal is to get entire board to the same color |
+| [flood-it](https://github.com/UCSB-CS56-Projects/cs56-games-flood-it)  | W14 | jcneally 4pm | krbriggs, christopherluo | A game where the goal is to get entire board to the same color |
 | [hangman](https://github.com/UCSB-CS56-Projects/cs56-games-hangman)  | W14 | bkiefer13 5pm |           bzimm | Graphical hangman game |
 | [maze](https://github.com/UCSB-CS56-Projects/cs56-games-maze)  | W14 | jstaahl 4pm | loganortega, richardwang94 | A program that generates at random a solvable rectangular maze |
 | [minesweeper](https://github.com/UCSB-CS56-Projects/cs56-games-minesweeper)  | W14 | andrewberls 4pm | jgee67, davidacevedo | (pconrad) Minesweeper game |
