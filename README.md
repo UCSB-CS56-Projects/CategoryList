@@ -3,6 +3,12 @@
 This repo contains a script to pull all of the repos from the class organization, and format them as [Markdown](http://daringfireball.net/projects/markdown/)
 for easy viewing.
 
+project history
+===============
+```
+ N/A
+```
+
 ### Instructions (Python Script)
 
 The python script (tableUpdate.py) uses PyGithub.
