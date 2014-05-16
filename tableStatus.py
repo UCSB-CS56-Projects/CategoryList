@@ -12,12 +12,14 @@ from github_acadwf import getenvOrDie
 def writeRepoHelper(outputFile, repoTitle, repos):
     outputFile.write("##" + repoTitle + "\n")
     outputFile.write("| Repo | Moderator | Description |\n")
+    outputFile.write("| ---- | --------- | ----------- |\n")
     for repo in repos:
         descFields = repo.description.split(' | ')
         if len(descFields) == 2:
             continue
         description = descFields[3] if len(descFields) >= 4 else descFields[2]
         outputFile.write("| " + repo.name + " | " + descFields[1].lower() + " | " + description + " |\n")
+    outputFile.write("\n")
 
 addPyGithubToPath()
 
@@ -108,6 +110,7 @@ for title, repoList in repos['unprocessed'].items():
 outputFile.write("#Ignored Repos\n")
 outputFile.write("##All types\n")
 outputFile.write("| Repo Name |\n")
+outputFile.write("| --------- |\n")
 for repo in badRepos:
     outputFile.write("| " + repo.name + " |\n")
 
