@@ -1,12 +1,8 @@
 #!/usr/bin/env python
 
 import getpass
-import sys
-
-from collections import OrderedDict
 
 from github_acadwf import addPyGithubToPath
-from github_acadwf import getenvOrDie
 
 
 def writeRepoHelper(outputFile, repoTitle, repos):
