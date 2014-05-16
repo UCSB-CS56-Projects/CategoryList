@@ -75,7 +75,7 @@ for repo in org.get_repos():
         continue
 
     nameParts = repo.name.split('-')
-    if len(nameParts) < 4:
+    if len(nameParts) < 3:
         badRepos.append(repo)
         continue
 
@@ -108,7 +108,6 @@ for title, repoList in repos['unprocessed'].items():
     writeRepoHelper(outputFile, title, repoList)
 
 outputFile.write("#Ignored Repos\n")
-outputFile.write("##All types\n")
 outputFile.write("| Repo Name |\n")
 outputFile.write("| --------- |\n")
 for repo in badRepos:

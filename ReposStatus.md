@@ -1,10 +1,25 @@
 #Approved Repos
+##networking
+| Repo | Moderator | Description |
+| ---- | --------- | ----------- |
+| cs56-networking-chat | mastergberry | A chat application that uses a client and a server |
+
+##scrapers
+| Repo | Moderator | Description |
+| ---- | --------- | ----------- |
+| cs56-scrapers-pdf | mastergberry | (kjorg50) Utilities for scraping PDF files. Uses PDFBox as a tool. |
+
 ##utilities
 | Repo | Moderator | Description |
 | ---- | --------- | ----------- |
 | cs56-utilities-password-generator | mastergberry | (jcneally) A file that creates random passwords with a given password length |
+| cs56-utilities-GEscraper | mastergberry | Scrape UCSB course pages for appripriate classes that fulfill certain GE requirements |
+| cs56-utilities-todo | mastergberry | (bkiefer13) Multi-level todo list application |
 | cs56-utilities-FTP-Client | mastergberry | A FTP client which can connect to a server, download files from server and save it on local |
+| cs56-utilities-grapher | bronhuston | (bkiefer13) A 2D graphing GUI |
+| cs56-utilities-calculator | mastergberry |  A graphical calculator written in Java |
 | cs56-utilities-rss-reader | mastergberry | (erdinckorpeoglu) Java interface for the website CommaFeed.com, an RSS reader.  |
+| cs56-utilities-cryptography | mastergberry | Implementation of 3 different types of string ciphers, both encryption and decryption. |
 | cs56-utilities-binary-clock | mastergberry | Graphical Binary Clock |
 | cs56-utilities-credit-card-validator | mastergberry | A credit card number validator |
 
@@ -13,30 +28,40 @@
 | ---- | --------- | ----------- |
 | cs56-languages-vocab-quiz | mastergberry | A quiz that is designed to test the user's knowledge on foreign vocabulary |
 
-##games
-| Repo | Moderator | Description |
-| ---- | --------- | ----------- |
-| cs56-games-memory-card | mastergberry | A memory card game |
-| cs56-games-fish-animation | mastergberry | A fish animation |
-| cs56-games-client-server-v2 | mastergberry | A new version of cs56-games-client-server that is identical on the outside, but substantially refactored inside to have better MVC separation. |
-| cs56-games-country-runner | bronhuston | Running game with obstacles. |
-| cs56-games-simon-says | mastergberry | A "Simon Says" game where the player must replicate a series of actions |
-| cs56-games-battleship-alt | mastergberry | An alternative version of Battleship. |
-| cs56-games-treasure-hunter | mastergberry | Treasure Hunter Game |
-| cs56-games-name-memorization | mastergberry | (andrewberls) A name memorization game |
-| cs56-games-pokemon-map | mastergberry |  Pokemon Map Renderer |
-| cs56-games-simple-rpg | bronhuston | A simple rpg game |
-
-##tutorials
-| Repo | Moderator | Description |
-| ---- | --------- | ----------- |
-| cs56-tutorials-image-zoom | mastergberry | (kjorg50) A tutorial illustrating how to do simple zoom in and zoom out controls on, for example, a map image. |
-
 ##music
 | Repo | Moderator | Description |
 | ---- | --------- | ----------- |
 | cs56-music-guitar-tuner | bronhuston | Guitar-related music applications |
 | cs56-music-basic-synthesis-demo | bronhuston | A basic demo of some simple synthesis starting with sine waves |
+| cs56-music-beatbox | mastergberry | A gui that has the ability to mix together all sorts of instruments just like a beatbox |
+
+##tutorials
+| Repo | Moderator | Description |
+| ---- | --------- | ----------- |
+| cs56-tutorials-autocomplete | mastergberry | A small project containing simple classes and main programs that demonstrate how to build "autocomplete" widgets in a Swing GUI. |
+| cs56-tutorials-image-zoom | mastergberry | (kjorg50) A tutorial illustrating how to do simple zoom in and zoom out controls on, for example, a map image. |
+
+##games
+| Repo | Moderator | Description |
+| ---- | --------- | ----------- |
+| cs56-games-memory-card | mastergberry | A memory card game |
+| cs56-games-fish-animation | mastergberry | A fish animation |
+| cs56-games-pong | bronhuston | An implementation of the classic game Pong, with cooperative multiplayer support. |
+| cs56-games-roguelike | mastergberry | ASCII roguelike game |
+| cs56-games-snake | bronhuston | Snake game |
+| cs56-games-client-server-v2 | mastergberry | A new version of cs56-games-client-server that is identical on the outside, but substantially refactored inside to have better MVC separation. |
+| cs56-games-country-runner | bronhuston | Running game with obstacles. |
+| cs56-games-hangman | mastergberry | Graphical hangman game |
+| cs56-games-simon-says | mastergberry | A "Simon Says" game where the player must replicate a series of actions |
+| cs56-games-connectfour | mastergberry | An implementation of Connect Four |
+| cs56-games-battleship-alt | mastergberry | An alternative version of Battleship. |
+| cs56-games-treasure-hunter | mastergberry | Treasure Hunter Game |
+| cs56-games-name-memorization | mastergberry | (andrewberls) A name memorization game |
+| cs56-games-pokemon-map | mastergberry |  Pokemon Map Renderer |
+| cs56-games-poker | mastergberry | (pconrad) Poker Game |
+| cs56-games-tetris | mastergberry | A Tetris game |
+| cs56-games-simple-rpg | bronhuston | A simple rpg game |
+| cs56-games-beetle | bronhuston | Roll dice to build a beetle |
 
 ##math
 | Repo | Moderator | Description |
@@ -47,6 +72,8 @@
 ##tutorials
 | Repo | Moderator | Description |
 | ---- | --------- | ----------- |
+| cs56-tutorials-xml | mastergberry | Tutorial for XML usage with SAX XML Parser |
+| cs56-tutorials-hfj | mastergberry | Tutorials from HFJ |
 | cs56-tutorials-lint-style-programs | mastergberry | A tutorial about how to use JLint, Lint4j, and similar such utilities. |
 | cs56-tutorials-expression-parsing | mastergberry | Tutorials for expression parsing libraries |
 
@@ -60,8 +87,15 @@
 ##games
 | Repo | Moderator | Description |
 | ---- | --------- | ----------- |
+| cs56-games-battleship | mastergberry | Battleship game (Discontinued) |
 | cs56-games-client-server | mastergberry | Games that communicate via Java networking |
+| cs56-games-gomoku | mastergberry | The game of Gomoku branched off into a separate project from code originally in cs56-games-client-server |
 | cs56-games-coop-adventure | bronhuston | (erdinckorpeoglu) Point and click adventure game about the Student Housing Coops |
+
+##music
+| Repo | Moderator | Description |
+| ---- | --------- | ----------- |
+| cs56-music-mp3-player | bronhuston | An app that can play music from an mp3 file |
 
 #Unprocessed Repos
 ##discretemath
@@ -72,10 +106,16 @@
 ##games
 | Repo | Moderator | Description |
 | ---- | --------- | ----------- |
+| cs56-games-blackjack | andrewberls 5pm | (jstaahl) Blackjack game |
+| cs56-games-maze | jstaahl 4pm | A program that generates at random a solvable rectangular maze |
+| cs56-games-Go | jstaahl 4pm | A gui version of the Chinese board game called Go |
+| cs56-games-pacman | bkiefer13 4pm | (ianvernon) Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving |
 | cs56-games-towers-of-hanoi | bkiefer13 5pm | (jstaahl) A towers of hanoi GAME (not a solver or a simulation or an animation of the algorithm!) |
 | cs56-games-flood-it | jcneally 4pm | A game where the goal is to get entire board to the same color |
 | cs56-games-states-quiz | jcneally 5pm | Quiz on US States with GUI |
+| cs56-games-minesweeper | andrewberls 4pm | (pconrad) Minesweeper game |
 | cs56-games-rock-paper-scissors | bkiefer13 4pm | (jcneally) rock paper scissors game using Pokemon |
+| cs56-games-dealer | jcneally 4pm | Application to shuffle a deck of 52 playing cards and deal them to the user |
 
 ##scrapers
 | Repo | Moderator | Description |
@@ -92,36 +132,7 @@
 | cs56-utilities-restaurant-list | jcneally 4pm | app that lists restaurants from its database |
 
 #Ignored Repos
-##All types
 | Repo Name |
 | --------- |
-| cs56-games-battleship |
-| cs56-games-blackjack |
-| cs56-networking-chat |
-| cs56-games-maze |
-| cs56-scrapers-pdf |
-| cs56-tutorials-xml |
-| cs56-tutorials-hfj |
-| cs56-games-pong |
 | CategoryList |
-| cs56-games-roguelike |
-| cs56-games-Go |
-| cs56-games-snake |
-| cs56-games-pacman |
-| cs56-utilities-GEscraper |
-| cs56-music-beatbox |
-| cs56-tutorials-autocomplete |
-| cs56-games-gomoku |
-| cs56-utilities-todo |
-| cs56-games-hangman |
 | utilities-calculator |
-| cs56-utilities-grapher |
-| cs56-utilities-calculator |
-| cs56-music-mp3-player |
-| cs56-utilities-cryptography |
-| cs56-games-connectfour |
-| cs56-games-minesweeper |
-| cs56-games-poker |
-| cs56-games-tetris |
-| cs56-games-dealer |
-| cs56-games-beetle |
