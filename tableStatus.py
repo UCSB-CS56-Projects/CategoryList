@@ -18,7 +18,7 @@ def writeRepoHelper(outputFile, repoTitle, repos):
         if len(descFields) == 2:
             continue
         description = descFields[3] if len(descFields) >= 4 else descFields[2]
-        outputFile.write("| " + repo.name + " | " + descFields[1].lower() + " | " + description + " |\n")
+        outputFile.write("| [" + repo.name + "](" + repo.url + ") | " + descFields[1].lower() + " | " + description + " |\n")
     outputFile.write("\n")
 
 addPyGithubToPath()
