@@ -28,27 +28,17 @@
 | ---- | --------- | ----------- |
 | [vocab-quiz](https://api.github.com/repos/UCSB-CS56-Projects/cs56-languages-vocab-quiz) | mastergberry | A quiz that is designed to test the user's knowledge on foreign vocabulary |
 
-##music
-| Repo | Moderator | Description |
-| ---- | --------- | ----------- |
-| [guitar-tuner](https://api.github.com/repos/UCSB-CS56-Projects/cs56-music-guitar-tuner) | bronhuston | Guitar-related music applications |
-| [basic-synthesis-demo](https://api.github.com/repos/UCSB-CS56-Projects/cs56-music-basic-synthesis-demo) | bronhuston | A basic demo of some simple synthesis starting with sine waves |
-| [beatbox](https://api.github.com/repos/UCSB-CS56-Projects/cs56-music-beatbox) | mastergberry | A gui that has the ability to mix together all sorts of instruments just like a beatbox |
-
-##tutorials
-| Repo | Moderator | Description |
-| ---- | --------- | ----------- |
-| [autocomplete](https://api.github.com/repos/UCSB-CS56-Projects/cs56-tutorials-autocomplete) | mastergberry | A small project containing simple classes and main programs that demonstrate how to build "autocomplete" widgets in a Swing GUI. |
-| [image-zoom](https://api.github.com/repos/UCSB-CS56-Projects/cs56-tutorials-image-zoom) | mastergberry | (kjorg50) A tutorial illustrating how to do simple zoom in and zoom out controls on, for example, a map image. |
-
 ##games
 | Repo | Moderator | Description |
 | ---- | --------- | ----------- |
+| [blackjack](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-blackjack) | mastergberry | (jstaahl) Blackjack game |
+| [maze](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-maze) | mastergberry | A program that generates at random a solvable rectangular maze |
 | [memory-card](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-memory-card) | mastergberry | A memory card game |
 | [fish-animation](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-fish-animation) | mastergberry | A fish animation |
 | [pong](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-pong) | bronhuston | An implementation of the classic game Pong, with cooperative multiplayer support. |
 | [roguelike](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-roguelike) | mastergberry | ASCII roguelike game |
 | [snake](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-snake) | bronhuston | Snake game |
+| [towers-of-hanoi](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-towers-of-hanoi) | mastergberry | (jstaahl) A towers of hanoi GAME (not a solver or a simulation or an animation of the algorithm!) |
 | [client-server-v2](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-client-server-v2) | mastergberry | A new version of cs56-games-client-server that is identical on the outside, but substantially refactored inside to have better MVC separation. |
 | [country-runner](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-country-runner) | bronhuston | Running game with obstacles. |
 | [hangman](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-hangman) | mastergberry | Graphical hangman game |
@@ -56,12 +46,27 @@
 | [connectfour](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-connectfour) | mastergberry | An implementation of Connect Four |
 | [battleship-alt](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-battleship-alt) | mastergberry | An alternative version of Battleship. |
 | [treasure-hunter](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-treasure-hunter) | mastergberry | Treasure Hunter Game |
+| [minesweeper](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-minesweeper) | mastergberry | (pconrad) Minesweeper game |
+| [rock-paper-scissors](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-rock-paper-scissors) | mastergberry | (jcneally) rock paper scissors game using Pokemon |
 | [name-memorization](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-name-memorization) | mastergberry | (andrewberls) A name memorization game |
 | [pokemon-map](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-pokemon-map) | mastergberry |  Pokemon Map Renderer |
 | [poker](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-poker) | mastergberry | (pconrad) Poker Game |
 | [tetris](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-tetris) | mastergberry | A Tetris game |
 | [simple-rpg](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-simple-rpg) | bronhuston | A simple rpg game |
 | [beetle](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-beetle) | bronhuston | Roll dice to build a beetle |
+
+##tutorials
+| Repo | Moderator | Description |
+| ---- | --------- | ----------- |
+| [autocomplete](https://api.github.com/repos/UCSB-CS56-Projects/cs56-tutorials-autocomplete) | mastergberry | A small project containing simple classes and main programs that demonstrate how to build "autocomplete" widgets in a Swing GUI. |
+| [image-zoom](https://api.github.com/repos/UCSB-CS56-Projects/cs56-tutorials-image-zoom) | mastergberry | (kjorg50) A tutorial illustrating how to do simple zoom in and zoom out controls on, for example, a map image. |
+
+##music
+| Repo | Moderator | Description |
+| ---- | --------- | ----------- |
+| [guitar-tuner](https://api.github.com/repos/UCSB-CS56-Projects/cs56-music-guitar-tuner) | bronhuston | Guitar-related music applications |
+| [basic-synthesis-demo](https://api.github.com/repos/UCSB-CS56-Projects/cs56-music-basic-synthesis-demo) | bronhuston | A basic demo of some simple synthesis starting with sine waves |
+| [beatbox](https://api.github.com/repos/UCSB-CS56-Projects/cs56-music-beatbox) | mastergberry | A gui that has the ability to mix together all sorts of instruments just like a beatbox |
 
 ##math
 | Repo | Moderator | Description |
@@ -89,8 +94,16 @@
 | ---- | --------- | ----------- |
 | [battleship](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-battleship) | mastergberry | Battleship game (Discontinued) |
 | [client-server](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-client-server) | mastergberry | Games that communicate via Java networking |
+| [Go](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-Go) | mastergberry | A gui version of the Chinese board game called Go |
 | [gomoku](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-gomoku) | mastergberry | The game of Gomoku branched off into a separate project from code originally in cs56-games-client-server |
 | [coop-adventure](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-coop-adventure) | bronhuston | (erdinckorpeoglu) Point and click adventure game about the Student Housing Coops |
+| [flood-it](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-flood-it) | mastergberry | A game where the goal is to get entire board to the same color |
+| [states-quiz](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-states-quiz) | mastergberry | Quiz on US States with GUI |
+
+##utilities
+| Repo | Moderator | Description |
+| ---- | --------- | ----------- |
+| [restaurant-list](https://api.github.com/repos/UCSB-CS56-Projects/cs56-utilities-restaurant-list) | mastergberry | app that lists restaurants from its database |
 
 ##music
 | Repo | Moderator | Description |
@@ -106,15 +119,7 @@
 ##games
 | Repo | Moderator | Description |
 | ---- | --------- | ----------- |
-| [blackjack](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-blackjack) | andrewberls 5pm | (jstaahl) Blackjack game |
-| [maze](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-maze) | jstaahl 4pm | A program that generates at random a solvable rectangular maze |
-| [Go](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-Go) | jstaahl 4pm | A gui version of the Chinese board game called Go |
 | [pacman](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-pacman) | bkiefer13 4pm | (ianvernon) Pacman game, starting with code from http://zetcode.com/tutorials/javagamestutorial/pacman/, and improving |
-| [towers-of-hanoi](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-towers-of-hanoi) | bkiefer13 5pm | (jstaahl) A towers of hanoi GAME (not a solver or a simulation or an animation of the algorithm!) |
-| [flood-it](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-flood-it) | jcneally 4pm | A game where the goal is to get entire board to the same color |
-| [states-quiz](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-states-quiz) | jcneally 5pm | Quiz on US States with GUI |
-| [minesweeper](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-minesweeper) | andrewberls 4pm | (pconrad) Minesweeper game |
-| [rock-paper-scissors](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-rock-paper-scissors) | bkiefer13 4pm | (jcneally) rock paper scissors game using Pokemon |
 | [dealer](https://api.github.com/repos/UCSB-CS56-Projects/cs56-games-dealer) | jcneally 4pm | Application to shuffle a deck of 52 playing cards and deal them to the user |
 
 ##scrapers
@@ -129,7 +134,6 @@
 | [TSA-Encryption](https://api.github.com/repos/UCSB-CS56-Projects/cs56-utilities-TSA-Encryption) | bronhuston 4pm | TopCoder Security Agency (TSA, established today) has just invented a new encryption system! This encryption system takes as its input a list of numbers to encrypt.  |
 | [GEAR-scraper](https://api.github.com/repos/UCSB-CS56-Projects/cs56-utilities-GEAR-scraper) | andrewberls 5pm | Scrape the UCSB Gear Catalog to form lists of structured information |
 | [ucsb-curriculum-htmlunit](https://api.github.com/repos/UCSB-CS56-Projects/cs56-utilities-ucsb-curriculum-htmlunit) | andrewberls 5pm | (pconrad) UCSB Curriculum Scraper based on HtmlUnit |
-| [restaurant-list](https://api.github.com/repos/UCSB-CS56-Projects/cs56-utilities-restaurant-list) | jcneally 4pm | app that lists restaurants from its database |
 
 #Ignored Repos
 | Repo Name |
